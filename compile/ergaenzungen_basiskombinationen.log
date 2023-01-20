@@ -1,0 +1,5431 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.19)  19 JAN 2023 15:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ergaenzungen_basiskombinationen.tex
+(ergaenzungen_basiskombinationen.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+
+! LaTeX Error: No counter 'num' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \setcounter{num}{0}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'numz' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \setcounter{numz}{0}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{tcolorbox}
+                     [width=\textwidth,height=\textheight,right=12pt,left=12...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{tcolorbox}[
+                      width=\textwidth,height=\textheight,right=12pt,left=12...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.4 \begin{tcolorbox}[width=\textwidth,h
+                                        eight=\textheight,right=12pt,left=12...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   r
+l.4 ...rbox}[width=\textwidth,height=\textheight,r
+                                                  ight=12pt,left=12pt,colfra...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+
+Overfull \hbox (276.03488pt too wide) in paragraph at lines 4--5
+[]\OT1/cmr/bx/n/10 ,coltitle=white,title=Allgemeines:[]Erg^^?anzungen
+ []
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 /
+ []
+
+
+Overfull \hbox (17.60405pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 Ba-
+ []
+
+
+Overfull \hbox (37.1831pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 siskom-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 na-
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 tio-
+ []
+
+
+Overfull \hbox (21.24295pt too wide) in paragraph at lines 4--5
+\OT1/cmr/bx/n/10 nen]
+ []
+
+
+! LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	\begin{tabularx}
+                     {\textwidth}{llXXX}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.6 	\begin{tabularx}{\textwidth}
+                                 {llXXX}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.6 	\begin{tabularx}{\textwidth}
+                                 {llXXX}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	\begin{tabularx}{\textwidth}{l
+                                   lXXX}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.7 		\textbf{Stand} 		&
+                         & \textbf{Technik 1\,\(\odot\)} 	& \textbf{Technik ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.7 		\textbf{Stand} 		& &
+                           \textbf{Technik 1\,\(\odot\)} 	& \textbf{Technik ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+! Misplaced alignment tab character &.
+l.7 ...and} 		& & \textbf{Technik 1\,\(\odot\)} 	&
+                                                   \textbf{Technik 2\,\(\odo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.7 ...odot\)} 	& \textbf{Technik 2\,\(\odot\)} 	&
+                                                   \textbf{Technik 3\,\(\odo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.8 		\midrule
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.9 		Sanchin Dachi 		&
+                        \(\hookleftarrow\)	& Age-Uke				& Kake-Uke 				& Har...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 		Sanchin Dachi 		& \(\hookleftarrow\)	&
+                                             Age-Uke				& Kake-Uke 				& Har...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 ...Dachi 		& \(\hookleftarrow\)	& Age-Uke				&
+                                                   Kake-Uke 				& Harai-Otos...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.9 ...okleftarrow\)	& Age-Uke				& Kake-Uke 				&
+                                                   Harai-Otoshi-Uke	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.10 		\textit{oder}		&
+                        \(\hookrightarrow\) 	& J\={o}dan-Zuki 		& Teisho-Zuk...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.10 		\textit{oder}		& \(\hookrightarrow\) 	&
+                                               J\={o}dan-Zuki 		& Teisho-Zuk...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.10 ... \(\hookrightarrow\) 	& J\={o}dan-Zuki 		&
+                                                   Teisho-Zuki Gedan		& Ura-...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.10 ...	& J\={o}dan-Zuki 		& Teisho-Zuki Gedan		&
+                                                   Ura-Zuki			\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.11 		Zenkutsu Dachi		&
+                         \(\hookleftarrow\)	& Yoko-Uke 				& Shuto-Uke 			& ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.11 		Zenkutsu Dachi		& \(\hookleftarrow\)	&
+                                              Yoko-Uke 				& Shuto-Uke 			& ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.11 ...chi		& \(\hookleftarrow\)	& Yoko-Uke 				&
+                                                   Shuto-Uke 			& Gedan Teis...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.11 ...eftarrow\)	& Yoko-Uke 				& Shuto-Uke 			&
+                                                   Gedan Teisho-Uke	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.12 		\textit{oder}		&
+                        \(\hookrightarrow\)	& Ch\={u}dan-Zuki 		& Nukite (Ke...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.12 		\textit{oder}		& \(\hookrightarrow\)	&
+                                              Ch\={u}dan-Zuki 		& Nukite (Ke...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.12 ... \(\hookrightarrow\)	& Ch\={u}dan-Zuki 		&
+                                                   Nukite (Kehle) 		& Uraken...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.12 ...)	& Ch\={u}dan-Zuki 		& Nukite (Kehle) 		&
+                                                   Uraken-Uchi		\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.13 		Shiko Dachi			&
+                       \(\hookleftarrow\)	& Soto-Uke 				& Mawashi-Uke 			& ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.13 		Shiko Dachi			& \(\hookleftarrow\)	&
+                                            Soto-Uke 				& Mawashi-Uke 			& ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.13 ...hi			& \(\hookleftarrow\)	& Soto-Uke 				&
+                                                   Mawashi-Uke 			& Haishu-U...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.13 ...tarrow\)	& Soto-Uke 				& Mawashi-Uke 			&
+                                                   Haishu-Uke		\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.14 		&
+         \(\hookrightarrow\)	& Ch\={u}dan-Zuki	& Teisho-Ate 			& Furi-Uchi			\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.14 		& \(\hookrightarrow\)	&
+                               Ch\={u}dan-Zuki	& Teisho-Ate 			& Furi-Uchi			\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.14 		& \(\hookrightarrow\)	& Ch\={u}dan-Zuki	&
+                                                 Teisho-Ate 			& Furi-Uchi			\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.14 ...rrow\)	& Ch\={u}dan-Zuki	& Teisho-Ate 			&
+                                                   Furi-Uchi			\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.15 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.16 		\textbf{Stand} 		&
+                          & \textbf{Technik\,\(\odot\)} 		&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.16 		\textbf{Stand} 		& &
+                            \textbf{Technik\,\(\odot\)} 		&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.16 ...and} 		& & \textbf{Technik\,\(\odot\)} 		&
+                                                    						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.16 ...& \textbf{Technik\,\(\odot\)} 		&  						&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.17 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.18 		Sanchin Dachi 		&
+                         \(\hookrightarrow\)	& Oi-Zuki J\={o}dan 	&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.18 		Sanchin Dachi 		& \(\hookrightarrow\)	&
+                                               Oi-Zuki J\={o}dan 	&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.18 ...\(\hookrightarrow\)	& Oi-Zuki J\={o}dan 	&
+                                                    						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.18 ...ghtarrow\)	& Oi-Zuki J\={o}dan 	&  						&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.19 		Zenkutsu Dachi		&
+                         \(\hookrightarrow\)	& Oi-Zuki Ch\={u}dan 	&\multico...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.19 		Zenkutsu Dachi		& \(\hookrightarrow\)	&
+                                               Oi-Zuki Ch\={u}dan 	&\multico...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.19 ...(\hookrightarrow\)	& Oi-Zuki Ch\={u}dan 	&
+                                                  \multicolumn{2}{l}{Nach Ab...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.19 ... 	&\multicolumn{2}{l}{Nach Abschluss dann}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.19 ... 	&\multicolumn{2}{l}{Nach Abschluss dann}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.19 ... 	&\multicolumn{2}{l}{Nach Abschluss dann}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.19 ... 	&\multicolumn{2}{l}{Nach Abschluss dann}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.19 ... 	&\multicolumn{2}{l}{Nach Abschluss dann}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.20 		Shiko Dachi			&
+                       \(\hookrightarrow\)	& Oi-Zuki Gedan 		&\multicolumn{2...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.20 		Shiko Dachi			& \(\hookrightarrow\)	&
+                                             Oi-Zuki Gedan 		&\multicolumn{2...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.20 ...	& \(\hookrightarrow\)	& Oi-Zuki Gedan 		&
+                                                  \multicolumn{2}{l}{seiteng...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.20 ...olumn{2}{l}{seitengedreht von oben weiter}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.20 ...olumn{2}{l}{seitengedreht von oben weiter}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.20 ...olumn{2}{l}{seitengedreht von oben weiter}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.20 ...olumn{2}{l}{seitengedreht von oben weiter}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.20 ...olumn{2}{l}{seitengedreht von oben weiter}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.21 		Shiko Dachi			&
+                       \(\hookleftarrow\)	& Harai-Otoshi-Uke 		&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.21 		Shiko Dachi			& \(\hookleftarrow\)	&
+                                            Harai-Otoshi-Uke 		&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.21 ... \(\hookleftarrow\)	& Harai-Otoshi-Uke 		&
+                                                    						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.21 ...eftarrow\)	& Harai-Otoshi-Uke 		&  						&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 		Zenkutsu Dachi		&
+                         \(\hookleftarrow\)	& Yoko-Uke 				&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 		Zenkutsu Dachi		& \(\hookleftarrow\)	&
+                                              Yoko-Uke 				&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 ...chi		& \(\hookleftarrow\)	& Yoko-Uke 				&
+                                                    						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 ...\hookleftarrow\)	& Yoko-Uke 				&  						&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 		Sanchin Dachi		&
+                        \(\hookleftarrow\)	& Age-Uke 				&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 		Sanchin Dachi		& \(\hookleftarrow\)	&
+                                             Age-Uke 				&  						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 ...achi		& \(\hookleftarrow\)	& Age-Uke 				&
+                                                    						&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 ...(\hookleftarrow\)	& Age-Uke 				&  						&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}
+                    \\\null\vfill\null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (52.47205pt too wide) in paragraph at lines 6--24
+[]\OT1/cmr/bx/n/10 llXXX
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Stand
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 1$\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 2$\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 3$\OMS/cmsy/m/n/10 ^^L$ 
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 -$
+ []
+
+
+Overfull \hbox (23.5485pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Age-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (29.45816pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Kake-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (31.94424pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Harai-
+ []
+
+
+Overfull \hbox (36.81367pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Otoshi-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke 
+ []
+
+
+Overfull \hbox (21.57199pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/it/10 oder
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (33.89563pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 J^^Vodan-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (36.01508pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Teisho-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (32.68036pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Gedan
+ []
+
+
+Overfull \hbox (23.0068pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Ura-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki 
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 -$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (32.9026pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Shuto-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (32.68036pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Gedan
+ []
+
+
+Overfull \hbox (36.01508pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Teisho-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke 
+ []
+
+
+Overfull \hbox (21.57199pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/it/10 oder
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (43.28447pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Ch^^Vudan-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (34.39566pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Nukite
+ []
+
+
+Overfull \hbox (38.08315pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 (Kehle)
+ []
+
+
+Overfull \hbox (40.41644pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uraken-
+ []
+
+
+Overfull \hbox (23.22209pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uchi 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Shiko
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 -$
+ []
+
+
+Overfull \hbox (26.1943pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Soto-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (47.71635pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Mawashi-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (38.61226pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Haishu-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke 
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (43.28447pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Ch^^Vudan-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (36.01508pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Teisho-
+ []
+
+
+Overfull \hbox (18.11797pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Ate
+ []
+
+
+Overfull \hbox (24.43044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Furi-
+ []
+
+
+Overfull \hbox (23.22209pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uchi 
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Stand
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (25.3472pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 nik$\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (15.66658pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Oi-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (30.06232pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 J^^Vodan
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (15.66658pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Oi-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (39.45116pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Ch^^Vudan
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Shiko
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (15.66658pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Oi-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (32.68036pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Gedan
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Shiko
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 -$
+ []
+
+
+Overfull \hbox (31.94424pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Harai-
+ []
+
+
+Overfull \hbox (36.81367pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Otoshi-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 -$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 6--24
+\OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 -$
+ []
+
+
+Overfull \hbox (23.5485pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Age-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 6--24
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/sesa246318/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[3]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[6]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[7]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[9]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[10]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[12]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[13]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[14]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[15]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[16]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[17]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[18]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[19]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill
+                                 \null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[20]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 	\end{tabularx}\\\null\vfill\null
+                                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[21]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	\begin{center}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[22]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	\begin{center}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--26
+[] 
+ []
+
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	\begin{center}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[23]
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.27 ...ärts-, bzw. Rückwärtsbewegung gedacht.}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.27 ...ärts-, bzw. Rückwärtsbewegung gedacht.}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (114.43826pt too wide) in paragraph at lines 27--27
+[]\OT1/cmr/bx/n/10 Koordinations^^?ubungen
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 im
+ []
+
+
+Overfull \hbox (16.04158pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Ki-
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 hon.
+ []
+
+
+Overfull \hbox (13.94437pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Im
+ []
+
+
+Overfull \hbox (28.3054pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Block
+ []
+
+
+Overfull \hbox (24.11794pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 oben
+ []
+
+
+Overfull \hbox (36.25676pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 k^^?onnen
+ []
+
+
+Overfull \hbox (34.4998pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 St^^?ande
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 und
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (26.99292pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 niken
+ []
+
+
+Overfull \hbox (15.81242pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 be-
+ []
+
+
+Overfull \hbox (26.99292pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 liebig
+ []
+
+
+Overfull \hbox (32.16788pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 gemis-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 cht
+ []
+
+
+Overfull \hbox (21.8263pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 wer-
+ []
+
+
+Overfull \hbox (21.24295pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 den.
+ []
+
+
+Overfull \hbox (18.82631pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Der
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 un-
+ []
+
+
+Overfull \hbox (19.74992pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 tere
+ []
+
+
+Overfull \hbox (28.3054pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Block
+ []
+
+
+Overfull \hbox (12.2027pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 ist
+ []
+
+
+Overfull \hbox (16.23604pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 zur
+ []
+
+
+Overfull \hbox (33.7637pt too wide) in paragraph at lines 27--27
+[]\OT1/cmr/bx/n/10 Ubung
+ []
+
+
+Overfull \hbox (16.39577pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 der
+ []
+
+
+Overfull \hbox (34.4512pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Fu^^Ybe-
+ []
+
+
+Overfull \hbox (17.0902pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 we-
+ []
+
+
+Overfull \hbox (22.361pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 gun-
+ []
+
+
+Overfull \hbox (17.40964pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 gen
+ []
+
+
+Overfull \hbox (21.85403pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 \Tai
+ []
+
+
+Overfull \hbox (51.38858pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Sabaki" in
+ []
+
+
+Overfull \hbox (16.39577pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 der
+ []
+
+
+Overfull \hbox (49.69556pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 Vorw^^?arts-
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 ,
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 bzw.
+ []
+
+
+Overfull \hbox (103.02861pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 R^^?uckw^^?artsbewegung
+ []
+
+
+Overfull \hbox (41.52754pt too wide) in paragraph at lines 27--27
+\OT1/cmr/bx/n/10 gedacht. 
+ []
+
+
+Overfull \hbox (3.83331pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 - 
+ []
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 2$[]$ 
+ []
+
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\end{center}
+                  \null\vfill\null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[24]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\end{center}
+                  \null\vfill\null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[25]
+Overfull \vbox (374.88889pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\end{center}
+                  \null\vfill\null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[26]
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\end{center}\null\vfill\null
+                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[27]
+
+! LaTeX Error: \begin{document} ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \end{tcolorbox}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \vbox (10.0pt too high) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[28]
+
+! LaTeX Error: No counter 'num' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \setcounter{num}{0}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'numz' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \setcounter{numz}{0}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \begin{tcolorbox}
+                      [width=\textwidth,height=\textheight,right=12pt,left=1...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.37 \begin{tcolorbox}[width=\textwidth,h
+                                         eight=\textheight,right=12pt,left=1...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   r
+l.37 ...box}[width=\textwidth,height=\textheight,r
+                                                  ight=12pt,left=12pt,colfra...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+
+Overfull \hbox (276.03488pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/bx/n/10 ,coltitle=white,title=Allgemeines:[]Erg^^?anzungen
+ []
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 /
+ []
+
+
+Overfull \hbox (28.1804pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 Kom-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 na-
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 tio-
+ []
+
+
+Overfull \hbox (18.04852pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 nen
+ []
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 /
+ []
+
+
+Overfull \hbox (18.59712pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 Ko-
+ []
+
+
+Overfull \hbox (14.31938pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 or-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 di-
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 na-
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 37--38
+\OT1/cmr/bx/n/10 tion]
+ []
+
+
+! LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 	\begin{tabularx}
+                      {\textwidth}{lllllllll}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.39 	\begin{tabularx}{\textwidth}
+                                  {lllllllll}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.39 	\begin{tabularx}{\textwidth}
+                                  {lllllllll}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Misplaced alignment tab character &.
+l.40 		\textbf{Stand} 		&
+                          & \textbf{Technik 1\,\(\odot\)} 	&& \textbf{Techni...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.40 		\textbf{Stand} 		& &
+                            \textbf{Technik 1\,\(\odot\)} 	&& \textbf{Techni...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.40 ...nd} 		& & \textbf{Technik 1\,\(\odot\)} 	&
+                                                  & \textbf{Technik 2\,\(\od...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.40 ...d} 		& & \textbf{Technik 1\,\(\odot\)} 	&&
+                                                   \textbf{Technik 2\,\(\odo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.40 ...ot\)} 	&& \textbf{Technik 2\,\(\odot\)} 	&
+                                                  & \textbf{Technik 3\,\(\od...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.40 ...t\)} 	&& \textbf{Technik 2\,\(\odot\)} 	&&
+                                                   \textbf{Technik 3\,\(\odo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.40 ...odot\)} 	&& \textbf{Technik 3\,\(\odot\)}&
+                                                  & \textbf{Technik 4\,\(\od...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.40 ...dot\)} 	&& \textbf{Technik 3\,\(\odot\)}&&
+                                                   \textbf{Technik 4\,\(\odo...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.41 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.42 		Zenkutsu Dachi 		&
+                          \(\hookrightarrow\)	& Age-Uke					& \(\hookrightar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 		Zenkutsu Dachi 		& \(\hookrightarrow\)	&
+                                                Age-Uke					& \(\hookrightar...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 ...hi 		& \(\hookrightarrow\)	& Age-Uke					&
+                                                   \(\hookrightarrow\)	& Tei...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 ...ow\)	& Age-Uke					& \(\hookrightarrow\)	&
+                                                   Teisho-Zuki J\={o}dan	& \...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 ...hookrightarrow\)	& Teisho-Zuki J\={o}dan	&
+                                                   \(\hookrightarrow\)	& Ura...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 ...sho-Zuki J\={o}dan	& \(\hookrightarrow\)	&
+                                                   Uraken-Uchi&&	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 ...o}dan	& \(\hookrightarrow\)	& Uraken-Uchi&
+                                                  &	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 ...}dan	& \(\hookrightarrow\)	& Uraken-Uchi&&
+                                                  	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.43 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.44 		Zenkutsu Dachi 		&
+                          \(\hookrightarrow\)	& Kake-Uke					& \(\hookrighta...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 		Zenkutsu Dachi 		& \(\hookrightarrow\)	&
+                                                Kake-Uke					& \(\hookrighta...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...i 		& \(\hookrightarrow\)	& Kake-Uke					&
+                                                   \(\hookrightarrow\)	& Ura...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...w\)	& Kake-Uke					& \(\hookrightarrow\)	&
+                                                   Ura-Zuki J\={o}dan	& \(\h...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...\(\hookrightarrow\)	& Ura-Zuki J\={o}dan	&
+                                                   \(\hookrightarrow\)	& Gya...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...Ura-Zuki J\={o}dan	& \(\hookrightarrow\)	&
+                                                   Gyaku-Zuki Ch\={u}dan&&	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...\hookrightarrow\)	& Gyaku-Zuki Ch\={u}dan&
+                                                  &	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...hookrightarrow\)	& Gyaku-Zuki Ch\={u}dan&&
+                                                  	\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.45 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.46 		Shiko Dachi			&
+                       \(\hookrightarrow\)	& Haito-Uke					& \(\downarrow\)	...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 		Shiko Dachi			& \(\hookrightarrow\)	&
+                                             Haito-Uke					& \(\downarrow\)	...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 ...			& \(\hookrightarrow\)	& Haito-Uke					&
+                                                   \(\downarrow\)		& Zenkuts...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 ...rrow\)	& Haito-Uke					& \(\downarrow\)		&
+                                                   Zenkutsu Dachi 		& \(\dow...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 ...				& \(\downarrow\)		& Zenkutsu Dachi 		&
+                                                   \(\downarrow\)		& Nukite&&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 ...\)		& Zenkutsu Dachi 		& \(\downarrow\)		&
+                                                   Nukite&&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 ...nkutsu Dachi 		& \(\downarrow\)		& Nukite&
+                                                  &\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.46 ...kutsu Dachi 		& \(\downarrow\)		& Nukite&&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.47 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.48 		Zenkutsu Dachi		&
+                         \(\hookrightarrow\)	& Yoko-Uke					& \(\downarrow\)...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 		Zenkutsu Dachi		& \(\hookrightarrow\)	&
+                                               Yoko-Uke					& \(\downarrow\)...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 ...hi		& \(\hookrightarrow\)	& Yoko-Uke					&
+                                                   \(\downarrow\)		& Tettsui...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 ...arrow\)	& Yoko-Uke					& \(\downarrow\)		&
+                                                   Tettsui-Uchi			& \(\hookr...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 ...e					& \(\downarrow\)		& Tettsui-Uchi			&
+                                                   \(\hookrightarrow\)	& Mae...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 ...		& Tettsui-Uchi			& \(\hookrightarrow\)	&
+                                                   Mae-Geri &\(\downarrow\) ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 ...-Uchi			& \(\hookrightarrow\)	& Mae-Geri &
+                                                  \(\downarrow\) & Gyaku-Zuki\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.48 ...krightarrow\)	& Mae-Geri &\(\downarrow\) &
+                                                   Gyaku-Zuki\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.49 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.50 		Sanchin Dachi		&
+                        \(\downarrow\)		& Harai-Otoshi-Uke			& \(\hookrighta...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 		Sanchin Dachi		& \(\downarrow\)		&
+                                          Harai-Otoshi-Uke			& \(\hookrighta...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 ...		& \(\downarrow\)		& Harai-Otoshi-Uke			&
+                                                   \(\hookrightarrow\)	& Sur...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 ...Harai-Otoshi-Uke			& \(\hookrightarrow\)	&
+                                                   Suri-Ashi Dachi		& \(\dow...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 ...& \(\hookrightarrow\)	& Suri-Ashi Dachi		&
+                                                   \(\downarrow\)		& Ren-Zuk...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 ...w\)	& Suri-Ashi Dachi		& \(\downarrow\)		&
+                                                   Ren-Zuki &\(\downarrow\) ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 ...Ashi Dachi		& \(\downarrow\)		& Ren-Zuki &
+                                                  \(\downarrow\) & Sanchin D...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.50 ...\downarrow\)		& Ren-Zuki &\(\downarrow\) &
+                                                   Sanchin Dachi\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.51 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.52 		Shiko Dachi			&
+                       \(\hookrightarrow\)	& Empi-Uchi					& \(\downarrow\)	...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 		Shiko Dachi			& \(\hookrightarrow\)	&
+                                             Empi-Uchi					& \(\downarrow\)	...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...			& \(\hookrightarrow\)	& Empi-Uchi					&
+                                                   \(\downarrow\)		& Gyaku-N...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...rrow\)	& Empi-Uchi					& \(\downarrow\)		&
+                                                   Gyaku-Nukite			&&&&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...i					& \(\downarrow\)		& Gyaku-Nukite			&
+                                                  &&&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...					& \(\downarrow\)		& Gyaku-Nukite			&&
+                                                  &&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...				& \(\downarrow\)		& Gyaku-Nukite			&&&
+                                                  &\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...			& \(\downarrow\)		& Gyaku-Nukite			&&&&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.53 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.54 		Neko-Ashi-Dachi		&
+                          \(\hookrightarrow\)	& Mawashi-Geri	& \(\downarrow\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.54 		Neko-Ashi-Dachi		& \(\hookrightarrow\)	&
+                                                Mawashi-Geri	& \(\downarrow\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.54 ...hi		& \(\hookrightarrow\)	& Mawashi-Geri	&
+                                                   \(\downarrow\)		& Gyaku-S...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.54 ...arrow\)	& Mawashi-Geri	& \(\downarrow\)		&
+                                                   Gyaku-Shuto-Uke		&\multic...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.54 ...eri	& \(\downarrow\)		& Gyaku-Shuto-Uke		&
+                                                  \multicolumn{4}{l}{\textit...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.54 ...ze Mawashi-Geri aus der Bewegung heraus}}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.55 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.56 		Zenkutsu Dachi		&
+                         \(\downarrow\)		& Harai-Otoshi-Uke			& \(\hookright...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 		Zenkutsu Dachi		& \(\downarrow\)		&
+                                           Harai-Otoshi-Uke			& \(\hookright...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...		& \(\downarrow\)		& Harai-Otoshi-Uke			&
+                                                   \(\hookrightarrow\)	& Mae...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...Harai-Otoshi-Uke			& \(\hookrightarrow\)	&
+                                                   Mae-Tobi-Geri			& \(\hook...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...	& \(\hookrightarrow\)	& Mae-Tobi-Geri			&
+                                                   \(\hookrightarrow\)	& Gya...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...	& Mae-Tobi-Geri			& \(\hookrightarrow\)	&
+                                                   Gyaku-Zuki &&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...eri			& \(\hookrightarrow\)	& Gyaku-Zuki &
+                                                  &\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...ri			& \(\hookrightarrow\)	& Gyaku-Zuki &&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.57 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.58 		Sanchin Dachi		&
+                        \(\hookrightarrow\)	& Yoko-Uke					& \(\downarrow\)	...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 		Sanchin Dachi		& \(\hookrightarrow\)	&
+                                              Yoko-Uke					& \(\downarrow\)	...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 ...hi		& \(\hookrightarrow\)	& Yoko-Uke					&
+                                                   \(\downarrow\)		& Gyaku-Z...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 ...arrow\)	& Yoko-Uke					& \(\downarrow\)		&
+                                                   Gyaku-Zuki			& \(\hookrig...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 ...Uke					& \(\downarrow\)		& Gyaku-Zuki			&
+                                                   \(\hookrightarrow\)	& Kak...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 ...\)		& Gyaku-Zuki			& \(\hookrightarrow\)	&
+                                                   Kake-Uke	& \(\downarrow\)...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 ...-Zuki			& \(\hookrightarrow\)	& Kake-Uke	&
+                                                   \(\downarrow\)& Teisho-At...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 ...krightarrow\)	& Kake-Uke	& \(\downarrow\)&
+                                                   Teisho-Ate \\					
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 	\end{tabularx}
+                    \\\null\vfill\null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (48.74985pt too wide) in paragraph at lines 39--59
+[]\OT1/cmr/bx/n/10 lllllllll
+ []
+
+
+Overfull \hbox (29.22899pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Stand
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 1$\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 2$\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 3$\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (27.32625pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Tech-
+ []
+
+
+Overfull \hbox (15.6527pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 nik
+ []
+
+
+Overfull \hbox (15.44447pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 4$\OMS/cmsy/m/n/10 ^^L$ 
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (23.5485pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Age-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (36.01508pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Teisho-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (30.06232pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 J^^Vodan
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (40.41644pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uraken-
+ []
+
+
+Overfull \hbox (23.22209pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uchi 
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (29.45816pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Kake-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (23.0068pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Ura-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (30.06232pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 J^^Vodan
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (36.67339pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Gyaku-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (39.45116pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Ch^^Vudan 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Shiko
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (31.84009pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Haito-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (34.39566pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Nukite 
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (39.2095pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Tettsui-
+ []
+
+
+Overfull \hbox (23.22209pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uchi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (25.61096pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Mae-
+ []
+
+
+Overfull \hbox (22.24295pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Geri
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (36.67339pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Gyaku-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki 
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (31.94424pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Harai-
+ []
+
+
+Overfull \hbox (36.81367pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Otoshi-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (24.54155pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Suri-
+ []
+
+
+Overfull \hbox (22.81375pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Ashi
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (24.11794pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Ren-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Shiko
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (30.55539pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Empi-
+ []
+
+
+Overfull \hbox (23.22209pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uchi
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (36.67339pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Gyaku-
+ []
+
+
+Overfull \hbox (34.39566pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Nukite 
+ []
+
+
+Overfull \hbox (29.60402pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Neko-
+ []
+
+
+Overfull \hbox (26.64706pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Ashi-
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (47.71635pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Mawashi-
+ []
+
+
+Overfull \hbox (22.24295pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Geri
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (36.67339pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Gyaku-
+ []
+
+
+Overfull \hbox (32.9026pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Shuto-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (31.94424pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Harai-
+ []
+
+
+Overfull \hbox (36.81367pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Otoshi-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (25.61096pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Mae-
+ []
+
+
+Overfull \hbox (26.20819pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Tobi-
+ []
+
+
+Overfull \hbox (22.24295pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Geri
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (36.67339pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Gyaku-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki 
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (36.67339pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Gyaku-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Zuki
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 39--59
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (29.45816pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Kake-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--59
+\OMS/cmsy/m/n/10 #$
+ []
+
+
+Overfull \hbox (36.01508pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Teisho-
+ []
+
+
+Overfull \hbox (18.11797pt too wide) in paragraph at lines 39--59
+\OT1/cmr/bx/n/10 Ate 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{tcolorbox}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[29
+
+]
+
+! LaTeX Error: No counter 'num' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \setcounter{num}{0}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: No counter 'numz' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \setcounter{numz}{0}
+                         	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \begin{tcolorbox}
+                      [width=\textwidth,height=\textheight,right=12pt,left=1...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.68 \begin{tcolorbox}[width=\textwidth,h
+                                         eight=\textheight,right=12pt,left=1...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   r
+l.68 ...box}[width=\textwidth,height=\textheight,r
+                                                  ight=12pt,left=12pt,colfra...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+
+Overfull \hbox (276.03488pt too wide) in paragraph at lines 68--69
+[]\OT1/cmr/bx/n/10 ,coltitle=white,title=Allgemeines:[]Erg^^?anzungen
+ []
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 /
+ []
+
+
+Overfull \hbox (28.1804pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 Kom-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 bi-
+ []
+
+
+Overfull \hbox (15.8124pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 na-
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 tio-
+ []
+
+
+Overfull \hbox (18.04852pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 nen
+ []
+
+
+Overfull \hbox (16.51515pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 aus
+ []
+
+
+Overfull \hbox (27.86092pt too wide) in paragraph at lines 68--69
+\OT1/cmr/bx/n/10 Kata]
+ []
+
+
+! LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 	\begin{tabularx}
+                      {\textwidth}{lllllll}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.70 	\begin{tabularx}{\textwidth}
+                                  {lllllll}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.70 	\begin{tabularx}{\textwidth}
+                                  {lllllll}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.71 ...l}{\textbf{Sequenz aus Taikyoku Kake-Uke}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.72 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.73 		Sanchin Dachi 	&
+                        \(\hookrightarrow\) & Yoko-Uke	&\multicolumn{4}{l}{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.73 		Sanchin Dachi 	& \(\hookrightarrow\) &
+                                              Yoko-Uke	&\multicolumn{4}{l}{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.73 ... Dachi 	& \(\hookrightarrow\) & Yoko-Uke	&
+                                                  \multicolumn{4}{l}{\(\odot...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.73 ... & Yoko-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.74 		Sanchin Dachi 	&
+                        \(\hookrightarrow\) & Kake-Uke	&\multicolumn{4}{l}{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.74 		Sanchin Dachi 	& \(\hookrightarrow\) &
+                                              Kake-Uke	&\multicolumn{4}{l}{\...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.74 ... Dachi 	& \(\hookrightarrow\) & Kake-Uke	&
+                                                  \multicolumn{4}{l}{\(\odot...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.74 ... & Kake-Uke	&\multicolumn{4}{l}{\(\odot\)}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.75 		Zenkutsu Dachi	&
+                        \(\hookrightarrow\) & Mae-Geri	& \(\odot\) & Empi-Uc...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.75 		Zenkutsu Dachi	& \(\hookrightarrow\) &
+                                              Mae-Geri	& \(\odot\) & Empi-Uc...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.75 ...u Dachi	& \(\hookrightarrow\) & Mae-Geri	&
+                                                   \(\odot\) & Empi-Uchi\,\(...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.75 ...\hookrightarrow\) & Mae-Geri	& \(\odot\) &
+                                                   Empi-Uchi\,\(\odot\)&&\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.75 ...e-Geri	& \(\odot\) & Empi-Uchi\,\(\odot\)&
+                                                  &\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.75 ...-Geri	& \(\odot\) & Empi-Uchi\,\(\odot\)&&
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.76 		\midrule
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.77 ...\scriptsize Kake Uke für Gekisai Dai-Ni}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.78 		\midrule
+               	
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.79 		Sanchin Dachi 	&
+                        \(\hookrightarrow\) 	& Yoko-Uke	&\multicolumn{3}{l}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.79 		Sanchin Dachi 	& \(\hookrightarrow\) 	&
+                                               Yoko-Uke	&\multicolumn{3}{l}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.79 ...Dachi 	& \(\hookrightarrow\) 	& Yoko-Uke	&
+                                                  \multicolumn{3}{l}{\(\odot...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.79 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.79 ... Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)} &
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.80 		Sanchin Dachi 	&
+                        \(\hookrightarrow\) 	& Yoko-Uke	&\multicolumn{3}{l}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.80 		Sanchin Dachi 	& \(\hookrightarrow\) 	&
+                                               Yoko-Uke	&\multicolumn{3}{l}{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.80 ...Dachi 	& \(\hookrightarrow\) 	& Yoko-Uke	&
+                                                  \multicolumn{3}{l}{\(\odot...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.80 ...	& Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)}
+                                                   &\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.80 ... Yoko-Uke	&\multicolumn{3}{l}{\(\odot\)} &
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.81 		Zenkutsu Dachi 	&
+                         \(\hookrightarrow\) 	& Mae-Geri	&\(\odot\)	& \multi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.81 		Zenkutsu Dachi 	& \(\hookrightarrow\) 	&
+                                                Mae-Geri	&\(\odot\)	& \multi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.81 ...Dachi 	& \(\hookrightarrow\) 	& Mae-Geri	&
+                                                  \(\odot\)	& \multicolumn{3...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.81 ...\hookrightarrow\) 	& Mae-Geri	&\(\odot\)	&
+                                                   \multicolumn{3}{l}{\(\dow...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.81 ...shi-Uke\,\(\odot\)\,Gyaku-Zuki\,\(\odot\)}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \midrule 
+                         
+l.82 		\midrule
+               							
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 	\end{tabularx}
+                    \\\null\vfill\null
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (42.361pt too wide) in paragraph at lines 70--83
+[]\OT1/cmr/bx/n/10 lllllll
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 70--83
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 70--83
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (29.45816pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Kake-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 70--83
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (25.61096pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Mae-
+ []
+
+
+Overfull \hbox (22.24295pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Geri
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 70--83
+\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+Overfull \hbox (30.55539pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Empi-
+ []
+
+
+Overfull \hbox (32.9166pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Uchi$\OMS/cmsy/m/n/10 ^^L$ 
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 70--83
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (39.13171pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Sanchin
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 70--83
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (28.81929pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Yoko-
+ []
+
+
+Overfull \hbox (19.86795pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Uke
+ []
+
+
+Overfull \hbox (46.5428pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Zenkutsu
+ []
+
+
+Overfull \hbox (28.78455pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Dachi
+ []
+
+
+Overfull \hbox (11.11118pt too wide) in paragraph at lines 70--83
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (25.61096pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Mae-
+ []
+
+
+Overfull \hbox (22.24295pt too wide) in paragraph at lines 70--83
+\OT1/cmr/bx/n/10 Geri
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 70--83
+\OMS/cmsy/m/n/10 ^^L$
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \end{tcolorbox}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./ergaenzungen_basiskombinationen.tex
+                                         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 36 strings out of 476404
+ 994 string characters out of 2787164
+ 1857324 words of memory out of 3000000
+ 20493 multiletter control sequences out of 15000+600000
+ 512954 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,6n,26p,357b,203s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,119 @@
+%%------------------------------------------------------------------------------
+%%Klasse
+%%------------------------------------------------------------------------------
+\documentclass[a5paper,landscape,DIV=calc,11pt,titlepage]{scrartcl}
+%%------------------------------------------------------------------------------
+%%Packages
+%%------------------------------------------------------------------------------
+\usepackage[headsepline=no, footsepline=no]{scrlayer-scrpage}
+\usepackage[utf8]{inputenc}
+%\usepackage{lmodern}
+\usepackage{CJKutf8}
+\usepackage[ngerman]{babel} 
+\usepackage[left=24pt, right=24pt, top=24pt, bottom=24pt]{geometry}
+\usepackage{tabularx}
+\usepackage[svgnames,RGB,table]{xcolor}
+\usepackage{booktabs}
+\usepackage{multicol,multirow}
+\usepackage[oldstyle]{libertinus}	%Schriftart -> Libertine, Minuskeln
+%\usepackage[sfdefault]{noto}		%Schriftart -> Noto Sans, -> Schriftgröße auf 10pt runter!
+\usepackage[T1]{fontenc}
+\usepackage[german]{layout}
+\usepackage{textcomp}
+\usepackage{calc}
+\usepackage{microtype}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{tcolorbox}
+\tcbuselibrary{raster,skins}
+\usepackage{layout}
+\usepackage{eso-pic}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{mwe}
+\usepackage[pdftex,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Trainigskarten},pdfproducer={MiKTeX},pdfcreator={pdflatex}]{hyperref}
+%%------------------------------------------------------------------------------
+%%Vereinbarungen & Makros
+%%------------------------------------------------------------------------------
+\clearpairofpagestyles
+\newcounter{num}
+\newcounter{numz}
+\newcommand{\ctu}[0]{\stepcounter{num}\arabic{num}.}
+\newcommand{\ctuz}[0]{\stepcounter{numz}\arabic{numz}}
+\newcommand{\ctd}[0]{\addtocounter{num}{-1}\arabic{num}.}
+\newcommand{\ctdz}[0]{\addtocounter{numz}{-1}\arabic{numz}}	
+\setcounter{num}{0}
+\setcounter{numz}{0}
+%%------------------------------------------------------------------------------
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
+%%------------------------------------------------------------------------------
+\graphicspath{{Gfx/gkd/}{Gfx/habersetzer/}{Gfx/}{Gfx/div/}{Gfx/espeloer_heckhuis_kata/}{Gfx/gurte/}{Gfx/sglgrkr/}{Gfx/tartaglia/}{Gfx/unsuidojo/},{Gfx/wolfskehlen/},{Gfx/self/}{Gfx/yuishinkan_kamen/}}
+%%------------------------------------------------------------------------------
+\definecolor{GKD}{rgb}{0.53,0.086,0.102}
+\definecolor{SGL}{rgb}{0,0.580,0.290}
+\definecolor{SGL2}{rgb}{0,1,0}
+\definecolor{YBELT}{rgb}{1,1,0.2}
+\definecolor{OBELT}{rgb}{1,0.404,0}
+\definecolor{GBELT}{rgb}{0.431,0.686,0.282}
+\definecolor{BLBELT}{rgb}{0,0.408,1}
+\definecolor{BRBELT}{rgb}{0.376,0.22,0.075}
+\definecolor{BKBELT}{rgb}{0.078,0.071,0.071}
+%%------------------------------------------------------------------------------
+\let\svthefootnote\thefootnote
+\newcommand\freefootnote[1]{%
+	\let\thefootnote\relax%
+	\footnotetext{#1}%
+	\let\thefootnote\svthefootnote%
+}
+%%------------------------------------------------------------------------------
+\newcommand{\trenner}[1]{\vspace{{#1}pt}\hrule\relax\vspace{{#1}pt}}
+%%------------------------------------------------------------------------------
+\newlength{\VTL}
+\newcommand{\SETVTL}[1]{\settowidth{\VTL}{{#1}}}
+%%------------------------------------------------------------------------------
+\newcommand\ShowBelt[1]{%
+	\put(248,-188){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			\includegraphics[width=48pt,keepaspectratio]{#1}%
+			\vfill
+		}
+	}
+}
+%%------------------------------------------------------------------------------
+\newcommand\ShowLogo{%
+	\put(-248,-188){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			\includegraphics[width=48pt,keepaspectratio]{GJRKDR_n.pdf}%
+			\vfill
+		}
+	}
+}
+%%------------------------------------------------------------------------------
+\newcommand\ShowDraft{%
+	\put(-256,172){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			\includegraphics[width=72pt,keepaspectratio]{entwurf.pdf}%
+			\vfill
+		}
+	}
+}
+%%------------------------------------------------------------------------------
+\newtcolorbox{pfbox}{right=4pt,left=4pt,colback=white,colframe=GKD}
+%%------------------------------------------------------------------------------
+%%EOF
+%%------------------------------------------------------------------------------
+%\newenvironment{KANJI}{%
+	%		\CJKfamily{ipxm}%
+	%		\CJKtilde
+	%		\CJKnospace}{}
