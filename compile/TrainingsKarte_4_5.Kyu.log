@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.19)  20 JAN 2023 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.24)  24 JAN 2023 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1513,7 +1513,7 @@ fg)
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.c
 fg)
-Underfull \hbox (badness 10000) in alignment at lines 46--46
+Underfull \hbox (badness 10000) in alignment at lines 45--45
 [][] 
  []
 
@@ -1551,7 +1551,7 @@ Package rerunfilecheck Info: File `TrainingsKarte_4_5.Kyu.out' has not changed.
 Here is how much of TeX's memory you used:
  34865 strings out of 476404
  722262 string characters out of 2787164
- 1877324 words of memory out of 3000000
+ 1876324 words of memory out of 3000000
  54538 multiletter control sequences out of 15000+600000
  570723 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1571,7 +1571,7 @@ s/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
 0.pfb><C:/Users/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb>
 Output written on C:\Users\sesa246318\Documents\GIT\GRKD\compile\TrainingsKarte
-_4_5.Kyu.pdf (1 page, 387628 bytes).
+_4_5.Kyu.pdf (1 page, 387623 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
