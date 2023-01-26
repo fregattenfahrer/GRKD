@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.19)  20 JAN 2023 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.24)  24 JAN 2023 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1514,9 +1514,9 @@ fg)
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.c
 fg)
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TOsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 38.
+(Font)              scaled to size 10.0pt on input line 37.
 
-Underfull \hbox (badness 10000) in alignment at lines 48--48
+Underfull \hbox (badness 10000) in alignment at lines 46--46
 [][] 
  []
 
@@ -1573,7 +1573,7 @@ ublic/amsfonts/cm/cmmi10.pfb><C:/Users/sesa246318/AppData/Local/Programs/MiKTeX
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/sesa246318/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 Output written on C:\Users\sesa246318\Documents\GIT\GRKD\compile\TrainingsKarte
-_1_9_8_Kyu.pdf (1 page, 313050 bytes).
+_1_9_8_Kyu.pdf (1 page, 313046 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)

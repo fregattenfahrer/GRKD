@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.19)  20 JAN 2023 08:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.24)  25 JAN 2023 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1307,7 +1307,17 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \VTL=\skip80
 )
 (C:\Users\sesa246318\Documents\GIT\GRKD\compile\Komplettsatz_Karten.aux
-(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/ergaenzungen.aux))
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/ergaenzungen.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input8kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input7kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input6kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input5kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input4kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input3kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input2kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input1kyu.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/input1dan.aux)
+(C:\Users\sesa246318\Documents\GIT\GRKD\compile\input/partnerformen.aux))
 \openout1 = `Komplettsatz_Karten.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -1988,9 +1998,9 @@ Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 13.
 
  (input/input8kyu.tex
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TOsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 38.
+(Font)              scaled to size 10.0pt on input line 37.
 
-Underfull \hbox (badness 10000) in alignment at lines 48--48
+Underfull \hbox (badness 10000) in alignment at lines 46--46
 [][] 
  []
 
@@ -2036,7 +2046,7 @@ Package pdftex.def Info: Gfx/gurte//orangebelt.pdf  used on input line 15.
 \openout2 = `input/input6kyu.aux'.
 
  (input/input6kyu.tex
-Underfull \hbox (badness 10000) in alignment at lines 52--52
+Underfull \hbox (badness 10000) in alignment at lines 46--46
 [][] 
  []
 
@@ -2059,7 +2069,7 @@ Package pdftex.def Info: Gfx/gurte//greenbelt.pdf  used on input line 16.
 \openout2 = `input/input5kyu.aux'.
 
  (input/input5kyu.tex
-Underfull \hbox (badness 10000) in alignment at lines 46--46
+Underfull \hbox (badness 10000) in alignment at lines 45--45
 [][] 
  []
 
@@ -2082,7 +2092,7 @@ Package pdftex.def Info: Gfx/gurte//bluebelt.pdf  used on input line 17.
 \openout2 = `input/input4kyu.aux'.
 
  (input/input4kyu.tex
-Underfull \hbox (badness 10000) in alignment at lines 46--46
+Underfull \hbox (badness 10000) in alignment at lines 45--45
 [][] 
  []
 
@@ -2103,12 +2113,7 @@ Package pdftex.def Info: Gfx/gurte//bluebelt.pdf  used on input line 18.
 ]
 \openout2 = `input/input3kyu.aux'.
 
- (input/input3kyu.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-)
+ (input/input3kyu.tex)
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 19.
@@ -2126,7 +2131,8 @@ Package pdftex.def Info: Gfx/gurte//brownbelt.pdf  used on input line 19.
  <./Gfx/gurte//brownbelt.pdf>]
 \openout2 = `input/input2kyu.aux'.
 
- (input/input2kyu.tex)
+
+(input/input2kyu.tex)
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 20.
@@ -2143,8 +2149,7 @@ Package pdftex.def Info: Gfx/gurte//brownbelt.pdf  used on input line 20.
 ]
 \openout2 = `input/input1kyu.aux'.
 
-
-(input/input1kyu.tex)
+ (input/input1kyu.tex)
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 21.
@@ -2262,10 +2267,10 @@ Package rerunfilecheck Info: File `Komplettsatz_Karten.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 36557 strings out of 476404
- 777546 string characters out of 2787164
+ 36588 strings out of 476404
+ 779079 string characters out of 2787164
  1871324 words of memory out of 3000000
- 55822 multiletter control sequences out of 15000+600000
+ 55833 multiletter control sequences out of 15000+600000
  628592 words of font info for 213 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,20n,113p,10705b,1505s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -2314,7 +2319,7 @@ s/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/
 msam10.pfb><C:/Users/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/symbols/msbm10.pfb>
 Output written on C:\Users\sesa246318\Documents\GIT\GRKD\compile\Komplettsatz_K
-arten.pdf (28 pages, 4417198 bytes).
+arten.pdf (28 pages, 4416988 bytes).
 PDF statistics:
  444 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
