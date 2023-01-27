@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.24)  25 JAN 2023 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.27)  27 JAN 2023 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1914,61 +1914,78 @@ isoku.pdf> <./Gfx/habersetzer//habersetzer_waffen_fuss_haisoku.pdf> <./Gfx/habe
 rsetzer//habersetzer_waffen_fuss_tsumasaki.pdf> <./Gfx/habersetzer//habersetzer
 _waffen_fuss_hiza.pdf> <./Gfx/habersetzer//habersetzer_waffen_fuss_kakato.pdf>]
 
-Overfull \vbox (252.01535pt too high) detected at line 53
+Overfull \vbox (197.775pt too high) detected at line 52
  []
 
 
-Overfull \vbox (252.01535pt too high) detected at line 53
+Overfull \vbox (197.775pt too high) detected at line 52
  []
 
 File: Gfx/self//musubi_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//musubi_dachi.pdf>
-Package pdftex.def Info: Gfx/self//musubi_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 146.55359pt.
+Package pdftex.def Info: Gfx/self//musubi_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//heiko_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//heiko_dachi.pdf>
-Package pdftex.def Info: Gfx/self//heiko_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 106.5927pt.
+Package pdftex.def Info: Gfx/self//heiko_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//sanchin_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//sanchin_dachi.pdf>
-Package pdftex.def Info: Gfx/self//sanchin_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 126.13469pt.
+Package pdftex.def Info: Gfx/self//sanchin_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//nekoashi_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//nekoashi_dachi.pdf>
-Package pdftex.def Info: Gfx/self//nekoashi_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 423.09816pt.
+Package pdftex.def Info: Gfx/self//nekoashi_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//shiko_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//shiko_dachi.pdf>
-Package pdftex.def Info: Gfx/self//shiko_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 252.48605pt x 93.52052pt.
+Package pdftex.def Info: Gfx/self//shiko_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 252.48605pt x 126.24796pt.
 File: Gfx/self//zenkutsu_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//zenkutsu_dachi.pdf>
-Package pdftex.def Info: Gfx/self//zenkutsu_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 288.73529pt.
+Package pdftex.def Info: Gfx/self//zenkutsu_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 234.49493pt.
 
-Overfull \vbox (252.01535pt too high) detected at line 53
+Overfull \vbox (197.775pt too high) detected at line 52
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 53--53
+Overfull \hbox (6.0pt too wide) in alignment at lines 52--52
 [][][][] 
  []
 
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
-Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 56.
+Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 55.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
 [9
 
- <./Gfx/self//musubi_dachi.pdf> <./Gfx/self//heiko_dachi.pdf> <./Gfx/self//sanc
-hin_dachi.pdf> <./Gfx/self//nekoashi_dachi.pdf> <./Gfx/self//shiko_dachi.pdf> <
-./Gfx/self//zenkutsu_dachi.pdf>]) (input/ergaenzungen_basiskombinationen.tex
+ <./Gfx/self//musubi_dachi.pdf> <./Gfx/self//heiko_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//heiko_dachi.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./Gfx/self//sanchin_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//sanchin_dachi.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./Gfx/self//nekoashi_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//nekoashi_dachi.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./Gfx/self//shiko_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//shiko_dachi.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./Gfx/self//zenkutsu_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//zenkutsu_dachi.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>]) (input/ergaenzungen_basiskombinationen.tex
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 31.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-
-[10
+ [10
 
 ]
 Underfull \hbox (badness 10000) in alignment at lines 59--59
@@ -2009,7 +2026,7 @@ File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 14.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-<Gfx/gurte//yellowbelt.pdf, id=212, 466.40376pt x 299.20404pt>
+<Gfx/gurte//yellowbelt.pdf, id=201, 466.40376pt x 299.20404pt>
 File: Gfx/gurte//yellowbelt.pdf Graphic file (type pdf)
 <use Gfx/gurte//yellowbelt.pdf>
 Package pdftex.def Info: Gfx/gurte//yellowbelt.pdf  used on input line 14.
@@ -2032,7 +2049,7 @@ File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 15.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-<Gfx/gurte//orangebelt.pdf, id=222, 466.40175pt x 298.71312pt>
+<Gfx/gurte//orangebelt.pdf, id=211, 466.40175pt x 298.71312pt>
 File: Gfx/gurte//orangebelt.pdf Graphic file (type pdf)
 <use Gfx/gurte//orangebelt.pdf>
 Package pdftex.def Info: Gfx/gurte//orangebelt.pdf  used on input line 15.
@@ -2055,7 +2072,7 @@ File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 16.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-<Gfx/gurte//greenbelt.pdf, id=228, 466.40376pt x 299.6962pt>
+<Gfx/gurte//greenbelt.pdf, id=217, 466.40376pt x 299.6962pt>
 File: Gfx/gurte//greenbelt.pdf Graphic file (type pdf)
 <use Gfx/gurte//greenbelt.pdf>
 Package pdftex.def Info: Gfx/gurte//greenbelt.pdf  used on input line 16.
@@ -2069,7 +2086,7 @@ Package pdftex.def Info: Gfx/gurte//greenbelt.pdf  used on input line 16.
 \openout2 = `input/input5kyu.aux'.
 
  (input/input5kyu.tex
-Underfull \hbox (badness 10000) in alignment at lines 45--45
+Underfull \hbox (badness 10000) in alignment at lines 46--46
 [][] 
  []
 
@@ -2078,7 +2095,7 @@ File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 17.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-<Gfx/gurte//bluebelt.pdf, id=234, 466.406pt x 298.71758pt>
+<Gfx/gurte//bluebelt.pdf, id=223, 466.406pt x 298.71758pt>
 File: Gfx/gurte//bluebelt.pdf Graphic file (type pdf)
 <use Gfx/gurte//bluebelt.pdf>
 Package pdftex.def Info: Gfx/gurte//bluebelt.pdf  used on input line 17.
@@ -2092,7 +2109,7 @@ Package pdftex.def Info: Gfx/gurte//bluebelt.pdf  used on input line 17.
 \openout2 = `input/input4kyu.aux'.
 
  (input/input4kyu.tex
-Underfull \hbox (badness 10000) in alignment at lines 45--45
+Underfull \hbox (badness 10000) in alignment at lines 46--46
 [][] 
  []
 
@@ -2118,7 +2135,7 @@ File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 19.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-<Gfx/gurte//brownbelt.pdf, id=244, 465.40115pt x 297.90422pt>
+<Gfx/gurte//brownbelt.pdf, id=233, 465.40115pt x 297.90422pt>
 File: Gfx/gurte//brownbelt.pdf Graphic file (type pdf)
 <use Gfx/gurte//brownbelt.pdf>
 Package pdftex.def Info: Gfx/gurte//brownbelt.pdf  used on input line 19.
@@ -2167,25 +2184,22 @@ Package pdftex.def Info: Gfx/gurte//brownbelt.pdf  used on input line 21.
 \openout2 = `input/input1dan.aux'.
 
  (input/input1dan.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TOsF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 41.
+(Font)              scaled to size 10.0pt on input line 39.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TOsF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 41.
+(Font)              scaled to size 10.0pt on input line 39.
 )
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 22.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-<Gfx/gurte//blackbelt.pdf, id=259, 466.40163pt x 298.7222pt>
+<Gfx/gurte//blackbelt.pdf, id=248, 466.40163pt x 298.7222pt>
 File: Gfx/gurte//blackbelt.pdf Graphic file (type pdf)
 <use Gfx/gurte//blackbelt.pdf>
 Package pdftex.def Info: Gfx/gurte//blackbelt.pdf  used on input line 22.
 (pdftex.def)             Requested size: 48.0pt x 30.74pt.
- [21
+
+[21
 
 
 
@@ -2268,9 +2282,9 @@ Package rerunfilecheck Info: File `Komplettsatz_Karten.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  36588 strings out of 476404
- 779079 string characters out of 2787164
+ 779031 string characters out of 2787164
  1871324 words of memory out of 3000000
- 55833 multiletter control sequences out of 15000+600000
+ 55827 multiletter control sequences out of 15000+600000
  628592 words of font info for 213 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,20n,113p,10705b,1505s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -2319,9 +2333,9 @@ s/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/
 msam10.pfb><C:/Users/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/symbols/msbm10.pfb>
 Output written on C:\Users\sesa246318\Documents\GIT\GRKD\compile\Komplettsatz_K
-arten.pdf (28 pages, 4416988 bytes).
+arten.pdf (28 pages, 4414747 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
+ 433 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  83694 words of extra memory for PDF output out of 89155 (max. 10000000)
 
