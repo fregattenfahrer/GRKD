@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.19)  20 JAN 2023 09:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.27)  30 JAN 2023 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1906,61 +1906,78 @@ isoku.pdf> <./Gfx/habersetzer//habersetzer_waffen_fuss_haisoku.pdf> <./Gfx/habe
 rsetzer//habersetzer_waffen_fuss_tsumasaki.pdf> <./Gfx/habersetzer//habersetzer
 _waffen_fuss_hiza.pdf> <./Gfx/habersetzer//habersetzer_waffen_fuss_kakato.pdf>]
 
-Overfull \vbox (252.01535pt too high) detected at line 53
+Overfull \vbox (197.775pt too high) detected at line 52
  []
 
 
-Overfull \vbox (252.01535pt too high) detected at line 53
+Overfull \vbox (197.775pt too high) detected at line 52
  []
 
 File: Gfx/self//musubi_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//musubi_dachi.pdf>
-Package pdftex.def Info: Gfx/self//musubi_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 146.55359pt.
+Package pdftex.def Info: Gfx/self//musubi_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//heiko_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//heiko_dachi.pdf>
-Package pdftex.def Info: Gfx/self//heiko_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 106.5927pt.
+Package pdftex.def Info: Gfx/self//heiko_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//sanchin_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//sanchin_dachi.pdf>
-Package pdftex.def Info: Gfx/self//sanchin_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 126.13469pt.
+Package pdftex.def Info: Gfx/self//sanchin_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//nekoashi_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//nekoashi_dachi.pdf>
-Package pdftex.def Info: Gfx/self//nekoashi_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 423.09816pt.
+Package pdftex.def Info: Gfx/self//nekoashi_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 117.24745pt.
 File: Gfx/self//shiko_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//shiko_dachi.pdf>
-Package pdftex.def Info: Gfx/self//shiko_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 252.48605pt x 93.52052pt.
+Package pdftex.def Info: Gfx/self//shiko_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 252.48605pt x 126.24796pt.
 File: Gfx/self//zenkutsu_dachi.pdf Graphic file (type pdf)
 <use Gfx/self//zenkutsu_dachi.pdf>
-Package pdftex.def Info: Gfx/self//zenkutsu_dachi.pdf  used on input line 53.
-(pdftex.def)             Requested size: 117.24303pt x 288.73529pt.
+Package pdftex.def Info: Gfx/self//zenkutsu_dachi.pdf  used on input line 52.
+(pdftex.def)             Requested size: 117.24303pt x 234.49493pt.
 
-Overfull \vbox (252.01535pt too high) detected at line 53
+Overfull \vbox (197.775pt too high) detected at line 52
  []
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 53--53
+Overfull \hbox (6.0pt too wide) in alignment at lines 52--52
 [][][][] 
  []
 
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
-Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 56.
+Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 55.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
 [9
 
- <./Gfx/self//musubi_dachi.pdf> <./Gfx/self//heiko_dachi.pdf> <./Gfx/self//sanc
-hin_dachi.pdf> <./Gfx/self//nekoashi_dachi.pdf> <./Gfx/self//shiko_dachi.pdf> <
-./Gfx/self//zenkutsu_dachi.pdf>]) (input/ergaenzungen_basiskombinationen.tex
+ <./Gfx/self//musubi_dachi.pdf> <./Gfx/self//heiko_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//heiko_dachi.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./Gfx/self//sanchin_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//sanchin_dachi.pdf): PDF inclusio
+n: multiple pdfs with page group included in a single page
+> <./Gfx/self//nekoashi_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//nekoashi_dachi.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./Gfx/self//shiko_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//shiko_dachi.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./Gfx/self//zenkutsu_dachi.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Gfx/self//zenkutsu_dachi.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>]) (input/ergaenzungen_basiskombinationen.tex
 File: Gfx/sglgrkr//entwurf.pdf Graphic file (type pdf)
 <use Gfx/sglgrkr//entwurf.pdf>
 Package pdftex.def Info: Gfx/sglgrkr//entwurf.pdf  used on input line 31.
 (pdftex.def)             Requested size: 72.0pt x 52.3172pt.
-
-[10
+ [10
 
 ]
 Underfull \hbox (badness 10000) in alignment at lines 59--59
@@ -1994,9 +2011,9 @@ nged.
  ) 
 Here is how much of TeX's memory you used:
  35956 strings out of 476404
- 758342 string characters out of 2787164
+ 758294 string characters out of 2787164
  1869324 words of memory out of 3000000
- 55438 multiletter control sequences out of 15000+600000
+ 55432 multiletter control sequences out of 15000+600000
  581810 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,20n,113p,10713b,1505s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -2040,9 +2057,9 @@ l/Programs/MiKTeX/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb><C:/Users/sesa2
 pfb><C:/Users/sesa246318/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
 Output written on C:\Users\sesa246318\Documents\GIT\GRKD\compile\TrainingsKarte
-_Ergaenzungen.pdf (12 pages, 4178417 bytes).
+_Ergaenzungen.pdf (12 pages, 4176181 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
+ 292 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  47824 words of extra memory for PDF output out of 51595 (max. 10000000)
 
