@@ -3,7 +3,8 @@
 #### Als fertige PDFs unter dem Verzeichnis [`/build`](build/) zu finden
 #### Aufbau
 - Ordner
-  - [ ] [`/build`](build/) enthält erzeugte PDF Dateien
+  - [ ] [`/build`](build/) enthält erzeugte PDF Dateien und ein gezipptes Komplettarchiv
+  - [ ] [`/zip_sources`](zip_sources/) enthält alle Quelltextdateien als ZIP
   - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken [^2]
   - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
 - Dateien
