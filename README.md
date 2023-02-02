@@ -3,9 +3,9 @@
 #### Als fertige PDFs unter dem Verzeichnis [`/build`](build/) zu finden
 #### Aufbau
 - Ordner
-  > [`/build`](build/) enthält erzeugte PDF Dateien
-  > [`/Gfx`](Gfx/) enthält Quellgrafiken [^2]
-  > [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
+  - [ ] [`/build`](build/) enthält erzeugte PDF Dateien
+  - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken [^2]
+  - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
 - Dateien
   - [ ] `TrainingsKarte_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution die jeweiligen Karten für die entsprechende Graduierung, bzw. Ergänzungen oder Partnerformen, zu erzeugen
   - [ ] `Komplettsatz_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution den jeweiligen Komplettkartensatz zu erzeugen, jeweils entweder in DIN A4 oder DIN A5. :warning: Vor dem Erzeugen dieser Komplettsätze müssen die Einzelfiles jeweils erzeugt werden :warning:.
