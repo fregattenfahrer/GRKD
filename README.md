@@ -4,9 +4,9 @@
 #### Aufbau
 - Ordner
   - [ ] [`/build`](build/) enthält erzeugte PDF Dateien und ein gezipptes Komplettarchiv
-  - [ ] [`/zip_sources`](zip_sources/) enthält alle Quelltextdateien als ZIP
   - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken [^2]
   - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
+  - [ ] [`/zip_sources`](zip_sources/) enthält alle Quelltextdateien als ZIP
 - Dateien
   - [ ] `TrainingsKarte_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution die jeweiligen Karten für die entsprechende Graduierung, bzw. Ergänzungen oder Partnerformen, zu erzeugen
   - [ ] `Komplettsatz_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution den jeweiligen Komplettkartensatz zu erzeugen, jeweils entweder in DIN A4 oder DIN A5. :warning: Vor dem Erzeugen dieser Komplettsätze müssen die Einzelfiles jeweils erzeugt werden :warning:.
