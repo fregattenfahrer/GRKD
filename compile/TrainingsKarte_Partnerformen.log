@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.19)  20 JAN 2023 09:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.1)  2 FEB 2023 09:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./TrainingsKarte_Partnerformen.tex
 (TrainingsKarte_Partnerformen.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16> (preambel_karten.tex
+L3 programming layer <2023-01-24> (preambel_karten.tex
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrart
 cl.cls
 Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
@@ -262,7 +262,7 @@ Now handling font encoding C62 ...
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )) (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
 ty
-Package: babel 2022/12/26 3.84 The Babel package
+Package: babel 2022/01/23 3.85 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen141
 \l@unhyphenated=\language79
@@ -1098,7 +1098,7 @@ Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2
 e\l3keys2e.sty
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-01-16 L3 programming layer (loader) 
+Package: expl3 2023-01-24 L3 programming layer (loader) 
 
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
@@ -1596,13 +1596,13 @@ anged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35114 strings out of 476404
- 730694 string characters out of 2787164
- 1874324 words of memory out of 3000000
- 54688 multiletter control sequences out of 15000+600000
+ 35115 strings out of 476375
+ 730706 string characters out of 5786616
+ 1874299 words of memory out of 5000000
+ 54716 multiletter control sequences out of 15000+600000
  579834 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,20n,109p,10714b,687s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 115i,20n,109p,10714b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/sesa246318/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertinus
 -type1/lbts_tevnlg.enc}{C:/Users/sesa246318/AppData/Local/Programs/MiKTeX/fonts
 /enc/dvips/libertinus-type1/lbts_rlktsf.enc}{C:/Users/sesa246318/AppData/Local/
