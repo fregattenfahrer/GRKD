@@ -1,0 +1,120 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "build/Komplettsatz_Karten.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "Komplettsatz_Karten.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 376,
+                "EditorGroup": 0,
+                "FileName": "Komplettsatz_A4.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 11
+            },
+            {
+                "Col": 33,
+                "EditorGroup": 0,
+                "FileName": "Komplettsatz_Karten.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 12
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_1_9_8_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_2_7_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_3_6_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_4_5_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_5_4_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_6_3_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_7_2_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_8_1_Kyu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_9_1_Dan.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_Ergaenzungen.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "TrainingsKarte_Partnerformen.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}
