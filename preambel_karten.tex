@@ -15,7 +15,8 @@
 \usepackage[svgnames,RGB,table]{xcolor}
 \usepackage{booktabs}
 \usepackage{multicol,multirow}
-\usepackage[oldstyle]{libertinus}	%Schriftart -> Libertine, Minuskeln
+\usepackage[lining]{libertinus}	%Schriftart -> Libertine, ausgerichtete Ziffern
+%\usepackage[oldstyle]{libertinus}	%Schriftart -> Libertine, Minuskeln
 %\usepackage[sfdefault]{noto}		%Schriftart -> Noto Sans, -> Schriftgröße auf 10pt runter!
 \usepackage[T1]{fontenc}
 \usepackage[german]{layout}
@@ -65,56 +66,22 @@
 \definecolor{BKBELT}{rgb}{0.078,0.071,0.071}
 %%------------------------------------------------------------------------------
 \let\svthefootnote\thefootnote
-\newcommand\freefootnote[1]{%
-	\let\thefootnote\relax%
-	\footnotetext{#1}%
-	\let\thefootnote\svthefootnote%
-}
+\newcommand\freefootnote[1]{\let\thefootnote\relax\footnotetext{#1}\let\thefootnote\svthefootnote}
 %%------------------------------------------------------------------------------
 \newcommand{\trenner}[1]{\vspace{{#1}pt}\hrule\relax\vspace{{#1}pt}}
 %%------------------------------------------------------------------------------
 \newlength{\VTL}
 \newcommand{\SETVTL}[1]{\settowidth{\VTL}{{#1}}}
 %%------------------------------------------------------------------------------
-\newcommand\ShowBelt[1]{%
-	\put(248,-188){%
-		\parbox[b][\paperheight]{\paperwidth}{%
-			\vfill
-			\centering
-			\includegraphics[width=48pt,keepaspectratio]{#1}%
-			\vfill
-		}
-	}
-}
+\newcommand\ShowBelt[1]{\put(248,-188){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=48pt,keepaspectratio]{#1}\vfill}}}
 %%------------------------------------------------------------------------------
-\newcommand\ShowLogo{%
-	\put(-248,-188){%
-		\parbox[b][\paperheight]{\paperwidth}{%
-			\vfill
-			\centering
-			\includegraphics[width=48pt,keepaspectratio]{GJRKDR_n.pdf}%
-			\vfill
-		}
-	}
-}
+\newcommand\ShowLogo{\put(-248,-188){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=48pt,keepaspectratio]{GJRKDR_n.pdf}\vfill}}}
 %%------------------------------------------------------------------------------
-\newcommand\ShowDraft{%
-	\put(-256,172){%
-		\parbox[b][\paperheight]{\paperwidth}{%
-			\vfill
-			\centering
-			\includegraphics[width=72pt,keepaspectratio]{entwurf.pdf}%
-			\vfill
-		}
-	}
-}
+\newcommand\ShowDraft{\put(-256,172){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=72pt,keepaspectratio]{entwurf.pdf}\vfill}}}
 %%------------------------------------------------------------------------------
 \newtcolorbox{pfbox}{right=4pt,left=4pt,colback=white,colframe=GKD}
 %%------------------------------------------------------------------------------
-%\newenvironment{KANJI}{%
-	%		\CJKfamily{ipxm}%
-	%		\CJKtilde
-	%		\CJKnospace}{}
+%\newenvironment{KANJI}{\CJKfamily{ipxm}\CJKtilde\CJKnospace}{}
 %%------------------------------------------------------------------------------
 %%EOF
 %%------------------------------------------------------------------------------
