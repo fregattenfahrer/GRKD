@@ -20,7 +20,6 @@
 %\usepackage[sfdefault]{noto}		%Schriftart -> Noto Sans, -> Schriftgröße auf 10pt runter!
 \usepackage[T1]{fontenc}
 \usepackage[german]{layout}
-\usepackage{textcomp}
 \usepackage{calc}
 \usepackage{microtype}
 \usepackage{float}
@@ -79,7 +78,8 @@
 %%------------------------------------------------------------------------------
 \newcommand\ShowDraft{\put(-256,172){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=72pt,keepaspectratio]{entwurf.pdf}\vfill}}}
 %%------------------------------------------------------------------------------
-\newtcolorbox{pfbox}{right=4pt,left=4pt,colback=white,colframe=GKD}
+\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,fonttitle=\bfseries}
+\newtcolorbox{pfbox}{natural height,leftrule=9pt,rightrule=9pt,right=4pt,left=4pt,colback=white,colframe=GKD}
 %%------------------------------------------------------------------------------
 %\newenvironment{KANJI}{\CJKfamily{ipxm}\CJKtilde\CJKnospace}{}
 %%------------------------------------------------------------------------------
