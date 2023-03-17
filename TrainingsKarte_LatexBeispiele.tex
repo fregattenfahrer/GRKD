@@ -1,0 +1,18 @@
+%%------------------------------------------------------------------------------
+%%Präambel laden
+%%------------------------------------------------------------------------------
+\input{preambel_karten.tex}
+%%------------------------------------------------------------------------------
+%%Ende Präambel
+%%------------------------------------------------------------------------------
+\begin{document}
+	%Funktion \strut und \mathstrut
+	%\strut ist eine Box, die eine vertikale Linie mit 
+	%Breite 0 | Höhe von 70% | Tiefe 30% des aktuellen \baselineskip
+	$\sqrt{y}\sqrt{a}\sqrt{k}$	\ \,--- nicht ganz schön\dots
+	$\sqrt{\mathstrut y} \sqrt{\mathstrut a} \sqrt{\mathstrut k}$--- mit \texttt{\textbackslash mathstrut}: gut!
+	$\sqrt{\strut y} \sqrt{\strut a} \sqrt{\strut k}$--- mit \texttt{\textbackslash strut}: zu viel des Guten!
+\end{document}
+%%------------------------------------------------------------------------------
+%%EOF
+%%------------------------------------------------------------------------------
