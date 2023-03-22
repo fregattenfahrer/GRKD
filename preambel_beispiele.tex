@@ -1,6 +1,4 @@
 %%------------------------------------------------------------------------------
-%%Präambel
-%%------------------------------------------------------------------------------
 %%Klasse
 %%------------------------------------------------------------------------------
 \documentclass[a5paper,landscape,DIV=calc,11pt,notitlepage]{scrartcl}
@@ -35,12 +33,9 @@
 \usepackage{amsmath}
 \usepackage{setspace}
 \usepackage{mwe}
-\usepackage[pdftex,pdfauthor={Sascha Christmann},pdftitle={Beispiele},pdfproducer={MiKTeX},pdfcreator={pdflatex}]{hyperref}
-\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue}
+\usepackage[pdftex,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Trainigskarten},pdfproducer={MiKTeX},pdfcreator={pdflatex}]{hyperref}
 \usepackage{datetime}
 \usepackage{import}
-\usepackage{listings}
-\lstloadlanguages{[LaTeX]TeX}
 %%------------------------------------------------------------------------------
 %%Vereinbarungen & Makros
 %%------------------------------------------------------------------------------
@@ -54,14 +49,12 @@
 \setcounter{num}{0}
 \setcounter{numz}{0}
 %%------------------------------------------------------------------------------
-\renewcommand\UrlFont{\color{blue}\rmfamily\itshape}
-%%------------------------------------------------------------------------------
 \newlength\tindent
 \setlength{\tindent}{\parindent}
 \setlength{\parindent}{0pt}
 \renewcommand{\indent}{\hspace*{\tindent}}
 %%------------------------------------------------------------------------------
-\graphicspath{{Gfx/gurte/}}
+\graphicspath{{Gfx/gkd/}{Gfx/habersetzer/}{Gfx/gurte/}{Gfx/sglgrkr/}{Gfx/self/}{Gfx/yuishinkan_kamen/}}
 %%------------------------------------------------------------------------------
 \definecolor{GKD}{rgb}{0.53,0.086,0.102}
 \definecolor{SGL}{rgb}{0,0.580,0.290}
@@ -90,19 +83,12 @@
 \tcbset{width=\textwidth,height=\textheight,leftrule=4pt,right=12pt,left=12pt,fonttitle=\bfseries}
 \newtcolorbox{pfbox}{natural height,leftrule=9pt,rightrule=9pt,right=4pt,left=4pt,colback=white,colframe=GKD}
 %%------------------------------------------------------------------------------
+\newcommand{\zwitepf}{\begin{pfbox}
+		Tori greift vorgehend aus Sanchin-Dachi an - der Angriff wird klar erkennbar und schulmäßig ausgeführt. Zu beachten sind gutes Distanzverhalten von Tori und Uke, die erkennbare Ernsthaftigkeit von Angriff und Konter sowie ein runder Ablauf. 	%%Kumite Ura https://www.youtube.com/watch?v=ED4-_aApmh4
+		%%Nage Waza https://www.youtube.com/watch?v=TAB9bBKQpvQ
+\end{pfbox}}
+%%------------------------------------------------------------------------------
 %\newenvironment{KANJI}{\CJKfamily{ipxm}\CJKtilde\CJKnospace}{}
-%%------------------------------------------------------------------------------
-%%Ende Präambel
-%%------------------------------------------------------------------------------
-\begin{document}
-	%Funktion \strut und \mathstrut
-	%\strut ist eine Box, die eine vertikale Linie mit 
-	%Breite 0 | Höhe von 70% | Tiefe 30% des aktuellen \baselineskip
-	Anwendung  \texttt{\textbackslash \{strut\}}\\
-	$\sqrt{y}\sqrt{a}\sqrt[3]{k}$	\ \,--- ohne \texttt{\textbackslash \{strut\}}\dots\\
-	$\sqrt{\mathstrut y} \sqrt{\mathstrut a} \sqrt[3]{\mathstrut k}$--- mit \texttt{\textbackslash mathstrut}\\
-	$\sqrt{\strut y} \sqrt{\strut a} \sqrt[3]{\strut k}$--- mit \texttt{\textbackslash strut} unter dem Symbol\\
-\end{document}
 %%------------------------------------------------------------------------------
 %%EOF
 %%------------------------------------------------------------------------------

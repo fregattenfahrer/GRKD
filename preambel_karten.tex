@@ -34,8 +34,11 @@
 \usepackage{setspace}
 \usepackage{mwe}
 \usepackage[pdftex,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Trainigskarten},pdfproducer={MiKTeX},pdfcreator={pdflatex}]{hyperref}
+\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue}
 \usepackage{datetime}
 \usepackage{import}
+\usepackage{listings}
+\lstloadlanguages{[LaTeX]TeX}
 %%------------------------------------------------------------------------------
 %%Vereinbarungen & Makros
 %%------------------------------------------------------------------------------
@@ -48,6 +51,8 @@
 \newcommand{\ctdz}[0]{\addtocounter{numz}{-1}\arabic{numz}}	
 \setcounter{num}{0}
 \setcounter{numz}{0}
+%%------------------------------------------------------------------------------
+\renewcommand\UrlFont{\color{blue}\rmfamily\itshape}
 %%------------------------------------------------------------------------------
 \newlength\tindent
 \setlength{\tindent}{\parindent}
