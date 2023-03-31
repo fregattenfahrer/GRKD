@@ -1,0 +1,29 @@
+%%------------------------------------------------------------------------------
+\documentclass[paper=a4,notitlepage,paper=landscape]{article}
+%%------------------------------------------------------------------------------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=48pt, right=57pt, top=24pt, bottom=56pt]{geometry}
+\usepackage{tabularx}
+\usepackage{calc}
+\usepackage{mwe}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1\textwidth-2\tabcolsep}}
+%%------------------------------------------------------------------------------
+\newlength{\boxseparator}
+\setlength{\boxseparator}{\fboxsep}
+%\setlength{\fboxsep}{0pt}
+\begin{document}
+	\renewcommand*{\arraystretch}{1.25}
+	\noindent
+	\begin{tabularx}{\textwidth}{|L{0.124}|L{0.245}|L{0.32}|L{0.17}|X|}
+		\hline
+		Phase/Zeit&	Ziele/Absichten	&Inhalte	&Organisationsform	&Materialien\\
+		\hline
+		\framebox{\parbox[t][67pt]{\linewidth}{Begrüßung}}&&&&\\
+		\hline
+	\end{tabularx}\\
+%\the\boxseparator{}\\
+%\setlength{\fboxsep}{\boxseparator}
+%\the\fboxsep{}
+\end{document}
+%%------------------------------------------------------------------------------

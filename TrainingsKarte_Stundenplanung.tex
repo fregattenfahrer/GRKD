@@ -1,0 +1,57 @@
+%%------------------------------------------------------------------------------
+%%Klasse
+%%------------------------------------------------------------------------------
+\documentclass[a4paper,DIV=calc,11pt,titlepage,landscape]{scrartcl}
+%%------------------------------------------------------------------------------
+%%Packages
+%%------------------------------------------------------------------------------
+\usepackage[headsepline=no, footsepline=no]{scrlayer-scrpage}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel} 
+\usepackage[left=48pt, right=48pt, top=56pt, bottom=56pt]{geometry}
+\usepackage{tabularx}
+\usepackage[svgnames,RGB,table]{xcolor}
+\usepackage{booktabs}
+\usepackage{multicol,multirow}
+\usepackage[german]{layout}
+\usepackage{calc}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{layout}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{mwe}
+\usepackage{datetime}
+\usepackage{import}
+\usepackage[pdftex,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Trainigsplanung},pdfproducer={MiKTeX},pdfcreator={pdflatex}]{hyperref}
+\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue}
+\clearpairofpagestyles
+%%------------------------------------------------------------------------------
+%%Vereinbarungen & Makros
+%%------------------------------------------------------------------------------
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1\textwidth-2\tabcolsep}}
+%%------------------------------------------------------------------------------
+\begin{document}
+	\layout
+	\renewcommand*{\arraystretch}{1.25}
+\noindent\textsf{\begin{tabularx}{\textwidth}{|L{0.124}|L{0.245}|L{0.32}|L{0.17}|X|}
+	\hline
+	\rowcolor{lightgray}Phase/Zeit&	Ziele/Absichten	&Inhalte	&Organisationsform	&Materialien\\
+	\hline
+	\parbox[t][60pt]{\linewidth}{Begrüßung}&&&&\\
+	\hline
+	\parbox[t][75pt]{\linewidth}{Aufwärmen}&&&&\\
+	\hline
+	\parbox[t][245pt]{\linewidth}{Hauptteil}&&&&\\
+	\parbox[t][30pt]{\linewidth}{\textit{Abschluss}}&&&&\\
+	\hline
+	\parbox[t][60pt]{\linewidth}{Ausklang}&&&&\\
+	\hline
+\end{tabularx}}
+\end{document}
+%%------------------------------------------------------------------------------
+%%EOF
+%%------------------------------------------------------------------------------
