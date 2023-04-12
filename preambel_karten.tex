@@ -15,10 +15,10 @@
 \usepackage[svgnames,RGB,table]{xcolor}
 \usepackage{booktabs}
 \usepackage{multicol,multirow}
-\usepackage[lining]{libertinus}	%Schriftart -> Libertine, ausgerichtete Ziffern
+%\usepackage[lining]{libertinus}	%Schriftart -> Libertine, ausgerichtete Ziffern
 %\usepackage[oldstyle]{libertinus}	%Schriftart -> Libertine, Minuskeln
 %\usepackage[sfdefault]{noto}		%Schriftart -> Noto Sans, -> Schriftgröße auf 10pt runter!
-%\usepackage[osf]{libertine}
+\usepackage[osf]{libertine}
 \usepackage{microtype}
 \usepackage[german]{layout}
 \usepackage{calc}
@@ -39,6 +39,11 @@
 \usepackage{import}
 \usepackage{listings}
 \lstloadlanguages{[LaTeX]TeX}
+\usepackage{soul}
+
+%\usepackage[backend=biber,style=alphabetic]{biblatex}
+%\addbibresource{scm_karate_do.bib}
+
 %%------------------------------------------------------------------------------
 %%Vereinbarungen & Makros
 %%------------------------------------------------------------------------------
@@ -52,7 +57,11 @@
 \setcounter{num}{0}
 \setcounter{numz}{0}
 %%------------------------------------------------------------------------------
+\setuldepth{a}
+%%------------------------------------------------------------------------------
 \renewcommand\UrlFont{\color{blue}\rmfamily\itshape}
+%%------------------------------------------------------------------------------
+\renewcommand*{\familydefault}{\sfdefault}
 %%------------------------------------------------------------------------------
 \newlength\tindent
 \setlength{\tindent}{\parindent}
