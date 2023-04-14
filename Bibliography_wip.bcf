@@ -2361,20 +2361,7 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">scm_karate_do.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Kogel2010</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">Espeloer1997</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">Higaonna1985</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">Nakayama2020</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Sebej1998</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">Gsodam1992</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">Tartaglia2019</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">Higaonna1986</bcf:citekey>
-    <bcf:citekey order="8" intorder="2">Higaonna1989</bcf:citekey>
-    <bcf:citekey order="8" intorder="3">Higaonna1990</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">GKD2023</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Noepel2007</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">Noepel2021</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Test2024</bcf:citekey>
+    <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="anyt">
