@@ -143,6 +143,7 @@
   author    = {Habersetzer, Roland},
   publisher = {S.B.J Sportland},
   title     = {{Die Grundtechniken des Karate : Vom Weißgurt bis zum 1. Dan}},
+  year      = {2018},
   isbn      = {9783938305188},
   groups    = {DE},
   subtitle  = {Vom Weißgurt bis zum 1. Dan},
@@ -162,6 +163,7 @@
   author    = {Habersetzer, Roland},
   publisher = {Palisander Verlag},
   title     = {39 Karate-Kata : Aus Wado-ryu, Goju-ryu und Shito-ryu},
+  year      = {2010},
   isbn      = {9783938305157},
   groups    = {DE},
   subtitle  = {Aus Wado-ryu, Goju-ryu und Shito-ryu},
@@ -194,13 +196,63 @@
   groups = {DE},
 }
 
+@Misc{Heubeck2009,
+  author       = {Heubeck, Alfred},
+  howpublished = {Internet},
+  title        = {{Shotokan Kihon-Ippon-Kumite}},
+  year         = {2009},
+  comment      = {3-teiliges PDF},
+  groups       = {DE},
+  pages        = {69},
+  url          = {http://www.karatedo-hausheim.de},
+}
+
+@Misc{Heubeck2022,
+  author       = {Heubeck, Alfred},
+  howpublished = {Internet},
+  title        = {{Shotokan Handlungsketten}},
+  year         = {2022},
+  groups       = {DE},
+  pages        = {17},
+  url          = {http://www.karatedo-hausheim.de},
+}
+
+@Misc{Heubeck2022,
+  author       = {Heubeck, Alfred},
+  howpublished = {Internet},
+  title        = {{Shotokan Drills}},
+  year         = {2022},
+  groups       = {DE},
+  pages        = {42},
+  url          = {http://www.karatedo-hausheim.de},
+}
+
+@Book{Walbersdorf,
+  author    = {Walbersdorf, Roger and Stochel, Peter},
+  publisher = {Selbstverlag},
+  title     = {{Yuishinkan Trainingsformen in Bildern Kumite-Ura und Nage-Waza}},
+  address   = {Roger Walbersdorf, Auguste-Picard-Weg 108, 40764 Langenfeld},
+  groups    = {DE},
+  url       = {https://www.karate-langenfeld.de},
+}
+
+@Book{McCarthy,
+  author    = {McCarthy, Patrick},
+  publisher = {Tuttle Publishing},
+  title     = {{The Bible of Karate Bubishi}},
+  year      = {1995},
+  isbn      = {9780804820158},
+  groups    = {EN},
+  pages     = {214},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-SESA246318-WTDELVSE274935L:C:\\Users\\sesa246318\\Documents\\GIT\\GRKD;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
-1 StaticGroup:DE\;0\;0\;0xcc3333ff\;\;Deutsch\;;
+1 StaticGroup:DE\;0\;1\;0xcc3333ff\;\;Deutsch\;;
 1 StaticGroup:EN\;0\;0\;0xcccc33ff\;\;Englisch\;;
 }
 
