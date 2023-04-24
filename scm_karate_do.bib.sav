@@ -4,7 +4,6 @@
   title     = {{Kata Bunkai}},
   year      = {2010},
   isbn      = {9783898995337},
-  groups    = {DE},
   subtitle  = {Die geheimen Techniken im Karate},
 }
 
@@ -14,7 +13,6 @@
   title     = {{GOJU-Ryu Karate-Do}},
   year      = {1997},
   isbn      = {3000013423},
-  groups    = {DE},
   subtitle  = {Grundlagen, Wettkampf-Training, Selbstverteidigung, Kata},
 }
 
@@ -24,7 +22,6 @@
   title     = {{Karate-Do}},
   year      = {2020},
   isbn      = {9783943593853},
-  groups    = {EN},
   subtitle  = {Dynamic Karate},
 }
 
@@ -34,7 +31,6 @@
   title     = {{Goju-Ryu-Karate für Einsteiger}},
   year      = {1998},
   isbn      = {9783328007838},
-  groups    = {DE},
 }
 
 @Book{Gsodam1992,
@@ -42,7 +38,6 @@
   publisher = {Eigenverlag},
   title     = {{Goju-Ryu Karatedo}},
   year      = {1992},
-  groups    = {DE},
   subtitle  = {Geschichte, Weg und Ziel},
 }
 
@@ -53,7 +48,6 @@
   year      = {2019},
   isbn      = {9783945583999},
   abstract  = {Das ist jetzt mal nur ein Test},
-  groups    = {DE},
   subtitle  = {Das Handbuch},
 }
 
@@ -63,7 +57,6 @@
   month        = jan,
   organization = {GKD GOJU-Ryu Karate-Bund Deutschland e.V.},
   year         = {2023},
-  groups       = {DE},
   subtitle     = {Dan-Grade, Kyu-Grade},
   url          = {https://www.karate-gkd.de/},
 }
@@ -76,7 +69,6 @@
   isbn      = {9780870405952},
   series    = {Traditional Karatedo},
   volume    = {1},
-  groups    = {EN},
   pages     = {172},
   subtitle  = {The Fundamental Techniques (Traditional Karate-Do)},
 }
@@ -89,7 +81,6 @@
   isbn      = {9780870405969},
   series    = {Traditional Karatedo},
   volume    = {2},
-  groups    = {EN},
   pages     = {148},
   subtitle  = {Performances of the Kata (Traditional Karate-Do, 2)},
 }
@@ -102,7 +93,6 @@
   isbn      = {9780870405976},
   series    = {Traditional Karatedo},
   volume    = {3},
-  groups    = {EN},
   pages     = {160},
   subtitle  = {Applications of the Kata (Traditional Karate-Do, 3)},
 }
@@ -115,7 +105,6 @@
   isbn      = {9780870408489},
   series    = {Traditional Karatedo},
   volume    = {4},
-  groups    = {EN},
   pages     = {174},
   subtitle  = {Applications of the Kata, Part 2 (Traditional Karate-Do, 4)},
 }
@@ -126,7 +115,6 @@
   title     = {{Jukuren : Kampfkunst der Erfahrenen}},
   year      = {2007},
   isbn      = {9783839122464},
-  groups    = {DE},
   subtitle  = {Kampfkunst der Erfahrenen},
 }
 
@@ -136,16 +124,14 @@
   title     = {{meine Reise ins Herz der Kata}},
   year      = {2021},
   isbn      = {9783000718038},
-  groups    = {DE},
 }
 
-@Book{Habersetzer,
+@Book{Habersetzer2018,
   author    = {Habersetzer, Roland},
   publisher = {S.B.J Sportland},
   title     = {{Die Grundtechniken des Karate : Vom Weißgurt bis zum 1. Dan}},
   year      = {2018},
   isbn      = {9783938305188},
-  groups    = {DE},
   subtitle  = {Vom Weißgurt bis zum 1. Dan},
 }
 
@@ -155,45 +141,40 @@
   year   = {2018},
   isbn   = {9798579605412},
   month  = jul,
-  groups = {DE},
   pages  = {183},
 }
 
-@Book{Habersetzera,
+@Book{Habersetzer2010,
   author    = {Habersetzer, Roland},
   publisher = {Palisander Verlag},
-  title     = {39 Karate-Kata : Aus Wado-ryu, Goju-ryu und Shito-ryu},
+  title     = {{39 Karate-Kata : Aus Wado-ryu, Goju-ryu und Shito-ryu}},
   year      = {2010},
   isbn      = {9783938305157},
-  groups    = {DE},
   subtitle  = {Aus Wado-ryu, Goju-ryu und Shito-ryu},
 }
 
-@Book{Kogel20201,
+@Book{Kogel2020,
   author = {Kogel, Helmut and Hokama, Tetsuhiro and McCarthy, Patrick},
   title  = {{Okinawa Goju Ryu Kata Bunkai: Elemente aus dem Bubishi}},
   year   = {2020},
   isbn   = {9798841399575},
   volume = {1},
-  groups = {DE},
 }
 
-@Book{Kogel20202,
+@Book{Kogel2020a,
   author = {Kogel, Helmut and Hokama, Tetsuhiro and McCarthy, Patrick},
   title  = {{Okinawa Goju Ryu Kata Bunkai: Elemente aus dem Bubishi}},
   year   = {2020},
   isbn   = {9798841402770},
   volume = {2},
-  groups = {DE},
 }
 
-@Book{Kogel20203,
+@Book{Kogel2020b,
   author = {Kogel, Helmut and Hokama, Tetsuhiro and McCarthy, Patrick},
   title  = {{Okinawa Goju Ryu Kata Bunkai: Elemente aus dem Bubishi}},
   year   = {2020},
   isbn   = {9798841452430},
   volume = {3},
-  groups = {DE},
 }
 
 @Misc{Heubeck2009,
@@ -202,7 +183,6 @@
   title        = {{Shotokan Kihon-Ippon-Kumite}},
   year         = {2009},
   comment      = {3-teiliges PDF},
-  groups       = {DE},
   pages        = {69},
   url          = {http://www.karatedo-hausheim.de},
 }
@@ -212,17 +192,15 @@
   howpublished = {Internet},
   title        = {{Shotokan Handlungsketten}},
   year         = {2022},
-  groups       = {DE},
   pages        = {17},
   url          = {http://www.karatedo-hausheim.de},
 }
 
-@Misc{Heubeck2022,
+@Misc{Heubeck2022a,
   author       = {Heubeck, Alfred},
   howpublished = {Internet},
   title        = {{Shotokan Drills}},
   year         = {2022},
-  groups       = {DE},
   pages        = {42},
   url          = {http://www.karatedo-hausheim.de},
 }
@@ -232,29 +210,47 @@
   publisher = {Selbstverlag},
   title     = {{Yuishinkan Trainingsformen in Bildern Kumite-Ura und Nage-Waza}},
   address   = {Roger Walbersdorf, Auguste-Picard-Weg 108, 40764 Langenfeld},
-  groups    = {DE},
   url       = {https://www.karate-langenfeld.de},
 }
 
-@Book{McCarthy,
+@Book{McCarthy1995,
   author    = {McCarthy, Patrick},
   publisher = {Tuttle Publishing},
   title     = {{The Bible of Karate Bubishi}},
   year      = {1995},
   isbn      = {9780804820158},
-  groups    = {EN},
   pages     = {214},
+}
+
+@Book{Nakayama2013,
+  author    = {Nakayama, Masatoshi and Draeger, Donn F.},
+  editor    = {Mario Masberg},
+  publisher = {VP-Masberg},
+  title     = {{Grundlagen der Selbstverteidigung}},
+  year      = {2013},
+  isbn      = {9783943593068},
+  month     = may,
+  series    = {Karate in der Praxis},
+  volume    = {1},
+  pages     = {118},
+}
+
+@Book{Nakayama2013a,
+  author    = {Nakayama, Masatoshi and Draeger, Donn F.},
+  editor    = {Mario Masberg},
+  publisher = {VP-Masberg},
+  title     = {{Verteidigung gegen einen einzelnen Angreifer}},
+  year      = {2013},
+  isbn      = {9783943593082},
+  month     = may,
+  series    = {Karate in der Praxis},
+  volume    = {2},
+  pages     = {126},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-SESA246318-WTDELVSE274935L:C:\\Users\\sesa246318\\Documents\\GIT\\GRKD;}
-
-@Comment{jabref-meta: grouping:
-0 AllEntriesGroup:;
-1 StaticGroup:DE\;0\;1\;0xcc3333ff\;\;Deutsch\;;
-1 StaticGroup:EN\;0\;0\;0xcccc33ff\;\;Englisch\;;
-}
 
 @Comment{jabref-meta: saveActions:disabled;
 all-text-fields[identity]
