@@ -1,5 +1,6 @@
 ### ![Goju Ryu Karate Reusrath](/Gfx/sglgrkr/GJRKDR_s.jpg)[^1]
 ### :punch:Trainingskarten Set:martial_arts_uniform:
+#### Als LaTeX-Distribution würde ich MiKTeX (https://miktex.org/) empfehlen, da diese relativ schlank bleibt und nicht mit einer so überbordenden Installation daher kommt. Als Editor für die LaTeX-Quelltexte und GUI zur Erstellung der PDF's ist meiner Meinung nach TeXstudio (https://texstudio.org/) sehr gut geeignet, da es unter den gängigen Betriebssystemen  (Windows, macOS und Linux) zur Verfügung steht und kostenlos ist. Meine entsprechenden Profile für mTeXstudio liegen auch hier im Repository.
 #### Als fertige PDFs unter dem Verzeichnis [`/build`](build/) zu finden
 #### Aufbau
 - Ordner
