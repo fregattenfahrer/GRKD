@@ -1,3 +1,5 @@
 compile/
 zip_sources/
+*.bcf
+*.sav
 
