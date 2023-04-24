@@ -6,7 +6,6 @@
   - [ ] [`/build`](build/) enthält erzeugte PDF Dateien und ein gezipptes Komplettarchiv
   - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken [^2]
   - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
-  - [ ] [`/zip_sources`](zip_sources/) enthält alle Quelltextdateien als ZIP
 - Dateien
   - [ ] Struktur/Aufbau: die Dateien sind jeweils inkludierend, sprich einzelne Karten enthalten lediglich die Inhalte des jeweiligen Satzes, die Komplettsätze erzeugen jeweilige Einzelkarten über entsprechende Subimporte.
   - [ ] `TrainingsKarte_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution die jeweiligen Karten für die entsprechende Graduierung, bzw. Ergänzungen oder Partnerformen, zu erzeugen
