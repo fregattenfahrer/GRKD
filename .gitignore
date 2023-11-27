@@ -1,6 +1,6 @@
 compile/
 zip_sources/
-build_zum_Vergleich
+build_zum_Vergleich/
 *.aux
 *.bbl
 *.blg
