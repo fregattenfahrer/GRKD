@@ -8,10 +8,8 @@
   - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
 - Dateien
   - [ ] Struktur/Aufbau: die Dateien sind jeweils inkludierend, sprich einzelne Karten enthalten lediglich die Inhalte des jeweiligen Satzes, die Komplettsätze erzeugen jeweilige Einzelkarten über entsprechende Subimporte.
-  - [ ] `TrainingsKarte_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution die jeweiligen Karten für die entsprechende Graduierung, bzw. Ergänzungen oder Partnerformen, zu erzeugen
+  - [ ] ~~`TrainingsKarte_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution die jeweiligen Karten für die entsprechende Graduierung, bzw. Ergänzungen oder Partnerformen, zu erzeugen~~
   - [ ] `Komplettsatz_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution den jeweiligen Komplettkartensatz zu erzeugen, jeweils entweder in DIN A4 oder DIN A5. 
-  - [ ] `Goju_Ryu_Reusrath.txss2` Session für TexStudio
-  - [ ] `Goju_Ryu_Reusrath_WIN.txsprofile` Profil für TexStudio (Windows)
   - [ ] `README.md` diese Datei
   
   [^1]: :copyright:[SG Langenfeld - Wettkampf - Goju-Ryu Karate Reusrath](https://www.sglangenfeld.de/de/wettkampf/karate-goju-ryu-reusrath/)
