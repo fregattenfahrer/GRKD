@@ -12,7 +12,7 @@
   - [ ] `Komplettsatz_*.tex` enthält den Quelltext um mit einer passenden LaTeX Distribution den jeweiligen Komplettkartensatz zu erzeugen, jeweils entweder in DIN A4 oder DIN A5. 
   - [ ] `README.md` diese Datei
 
-  #### Print / Ausgabe
-  Die Ausgabe ist für den Ausdruck auf DIN A5 optimiert - die einzelnen Blätter können laminiert werden, oder direkt bei einem passenden Anbieter als Druckexemplar bestellt werden.
+#### Print / Ausgabe
+Die Ausgabe ist für den Ausdruck auf DIN A5 optimiert - die einzelnen Blätter können laminiert werden, oder direkt bei einem passenden Anbieter als Druckexemplar bestellt werden.
   [^1]: :copyright:[SG Langenfeld - Wettkampf - Goju-Ryu Karate Reusrath](https://www.sglangenfeld.de/de/wettkampf/karate-goju-ryu-reusrath/)
   [^2]: :copyright: diverse Copyrights, sind im Literaturverzeichnis am Ende des Komplettsatzes aufgeführt (wip).
