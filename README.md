@@ -13,6 +13,6 @@
   - [ ] `README.md` diese Datei
 
 #### Print / Ausgabe
-Die Ausgabe ist für den Ausdruck auf DIN A5 **zweiseitig** optimiert - die einzelnen Blätter können laminiert werden, oder direkt bei einem passenden Anbieter als Druckexemplar bestellt werden.
+Die Ausgabe ist für den Ausdruck auf DIN A5 **zweiseitig** im **Querformat** optimiert - die einzelnen Blätter können laminiert werden, oder direkt bei einem passenden Anbieter als Druckexemplar bestellt werden.
   [^1]: :copyright:[SG Langenfeld - Wettkampf - Goju-Ryu Karate Reusrath](https://www.sglangenfeld.de/de/wettkampf/karate-goju-ryu-reusrath/)
   [^2]: :copyright: diverse Copyrights, sind im Literaturverzeichnis am Ende des Komplettsatzes aufgeführt (wip).
