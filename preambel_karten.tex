@@ -28,7 +28,7 @@
 \usepackage{mathtools}
 \usepackage{setspace}
 \usepackage{hyperref}
-\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue,pdftex,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Trainigskarten},pdfsubject={Trainingsmaterialien G\={o}j\={u}-Ry\={u} Karate-D\={o}},pdfproducer={MiKTeX},pdfcreator={pdflatex}}
+\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Trainigskarten},pdfsubject={Trainingsmaterialien G\={o}j\={u}-Ry\={u} Karate-D\={o}},pdfproducer={MiKTeX},pdfcreator={pdflatex}}
 \usepackage{datetime}
 \usepackage{import}
 \usepackage{listings}
@@ -73,24 +73,7 @@
 \let\svthefootnote\thefootnote
 \newcommand\freefootnote[1]{\let\thefootnote\relax\footnotetext{#1}\let\thefootnote\svthefootnote}
 %%------------------------------------------------------------------------------
-\newcommand{\trenner}[1]{\vspace{{#1}pt}\hrule\relax\vspace{{#1}pt}}
-%%------------------------------------------------------------------------------
-\newlength{\VTL}
-\newcommand{\SETVTL}[1]{\settowidth{\VTL}{{#1}}}
-%%------------------------------------------------------------------------------
-\newcommand\ShowBelt[1]{\put(248,-188){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=48pt,keepaspectratio]{#1}\vfill}}}
-%%------------------------------------------------------------------------------
-\newcommand\ShowLogo{\put(-248,-188){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=48pt,keepaspectratio]{GJRKDR_n.pdf}\vfill}}}
-%%------------------------------------------------------------------------------
-\newcommand\ShowDraft{\put(-256,172){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering\includegraphics[width=72pt,keepaspectratio]{entwurf.pdf}\vfill}}}
-%%------------------------------------------------------------------------------
-\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,fonttitle=\bfseries}
-\newtcolorbox{pfbox}{natural height,leftrule=9pt,rightrule=9pt,right=4pt,left=4pt,colback=white,colframe=GKD}
-%%------------------------------------------------------------------------------
-\newcommand{\zwitepf}{\begin{pfbox}
-		Tori greift vorgehend aus Sanchin-Dachi an - der Angriff wird klar erkennbar und schulmäßig ausgeführt. Zu beachten sind gutes Distanzverhalten von Tori und Uke, die erkennbare Ernsthaftigkeit von Angriff und Konter sowie ein runder Ablauf. 	%%Kumite Ura https://www.youtube.com/watch?v=ED4-_aApmh4
-		%%Nage Waza https://www.youtube.com/watch?v=TAB9bBKQpvQ
-\end{pfbox}}
+\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,colback=white,fonttitle=\bfseries}
 %%------------------------------------------------------------------------------
 %%EOF
 %%------------------------------------------------------------------------------
