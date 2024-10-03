@@ -6,9 +6,9 @@
   - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken 
   - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
 - Dateien
-  - [ ] Struktur/Aufbau: die Dateien sind jeweils inkludierend, sprich 'Neufassung_PO.tex' ist da Startdokument
+  - [ ] Struktur/Aufbau: die Dateien sind jeweils inkludierend, sprich `Neufassung_PO.tex` ist da Startdokument
   - [ ] `grkdr_quellen.bib` ist die Quelldatei für den Quellennachweis
-  - [ ] 'Neufassung_PO.pdf' ist die jeweils zuletzt erstellte PDF anhand der Quelldateien
+  - [ ] `Neufassung_PO.pdf` ist die jeweils zuletzt erstellte PDF anhand der Quelldateien
   - [ ] `README.md` diese Datei
 
 #### Print / Ausgabe
