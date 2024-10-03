@@ -1,6 +1,6 @@
 ### ![Goju Ryu Karate Reusrath](/Gfx/sglgrkr/Logo_SG_Langenfeld_Karate_schwarz.png)[^1]
 ### :punch:Prüfungsordnung als Druckvorlage:martial_arts_uniform:
-#### Zur Erstellung der Neufassung der Prüfungsordnung (PO) habe ich LaTeX verwendet - die Nutzung ist kostenfrei, allerdings auch nicht "jedermanns Sache". Als LaTeX-Distribution wurde MiKTeX[^2] (https://miktex.org/) verwendet, da diese relativ schlank bleibt und für alle gängigen Betriebssysteme erhältlich ist. Als Editor meiner Meinung nach TeXstudio (https://texstudio.org/) sehr gut geeignet, da dieser ebenfalls für die gängigen Betriebssysteme zur Verfügung steht und kostenlos ist. Zur Erstellung der BibTeX Dateien wurde JabRef verwendet, ebenfalls kostenlos und für die gängigen Betriebssysteme erhältlich.
+#### Zur Erstellung der Neufassung der Prüfungsordnung (PO) habe ich LaTeX verwendet - die Nutzung ist kostenfrei, allerdings auch nicht "jedermanns Sache". Als LaTeX-Distribution wurde MiKTeX[^2] verwendet, da diese relativ schlank bleibt und für alle gängigen Betriebssysteme erhältlich ist. Als Editor meiner Meinung nach TeXstudio sehr gut geeignet, da dieser ebenfalls für die gängigen Betriebssysteme zur Verfügung steht und kostenlos ist. Zur Erstellung der BibTeX Dateien wurde JabRef verwendet, ebenfalls kostenlos und für die gängigen Betriebssysteme erhältlich.
 #### Aufbau
 - Ordner
   - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken 
@@ -15,3 +15,4 @@
 Die Ausgabe ist für den Ausdruck auf DIN A5 **zweiseitig** im **Querformat** optimiert - die einzelnen Blätter können laminiert werden, oder direkt bei einem passenden Anbieter als Druckexemplar bestellt werden.
   [^1]: :copyright:[SG Langenfeld - Wettkampf - Goju-Ryu Karate Reusrath](https://www.sglangenfeld.de/de/wettkampf/karate/unsere-standorte/reusrath/)
   [^2]: [MikTeX Homepage](https://miktex.org/)
+  [^3]: [TeXstudio Homepage](https://texstudio.org/)
