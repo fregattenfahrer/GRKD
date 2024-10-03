@@ -1,5 +1,5 @@
 ### ![Goju Ryu Karate Reusrath](/Gfx/sglgrkr/Logo_SG_Langenfeld_Karate_schwarz_small.png)[^1]
-### :punch:Prüfungsordnung als Druckvorlage:martial_arts_uniform:
+### :punch: Prüfungsordnung als Druckvorlage :martial_arts_uniform:
 #### Zur Erstellung der Neufassung der Prüfungsordnung (PO) habe ich LaTeX verwendet - die Nutzung ist kostenfrei, allerdings auch nicht "jedermanns Sache". Als LaTeX-Distribution wurde MiKTeX[^2] verwendet, da diese relativ schlank bleibt und für alle gängigen Betriebssysteme erhältlich ist. Als Editor meiner Meinung nach TeXstudio[^3] sehr gut geeignet, da dieser ebenfalls für die gängigen Betriebssysteme zur Verfügung steht und kostenlos ist. Zur Erstellung der BibTeX Dateien wurde JabRef[^4] verwendet, ebenfalls kostenlos und für die gängigen Betriebssysteme erhältlich.
 #### Aufbau
 - Ordner
