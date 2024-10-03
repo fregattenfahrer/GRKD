@@ -7,7 +7,7 @@
   - [ ] [`/input`](input/) enthält die Input-Files der übergeordneten LaTeX Dateien
 - Dateien
   - [ ] Struktur/Aufbau: die Dateien sind jeweils inkludierend, sprich 'Neufassung_PO.tex' ist da Startdokument
-  - [ ] `grdr_quellen.bib` ist die Quelldatei für den Quellennachweis 
+  - [ ] `grkdr_quellen.bib` ist die Quelldatei für den Quellennachweis 
   - [ ] `README.md` diese Datei
 
 #### Print / Ausgabe
