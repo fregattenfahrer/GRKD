@@ -1,0 +1,72 @@
+%%------------------------------------------------------------------------------
+%%Präambel
+%%------------------------------------------------------------------------------
+%%Klasse
+%%------------------------------------------------------------------------------
+\documentclass[a5paper,landscape,DIV=calc,11pt,notitlepage]{scrartcl}
+%%------------------------------------------------------------------------------
+%%Packages
+%%------------------------------------------------------------------------------
+\usepackage[headsepline=no, footsepline=no]{scrlayer-scrpage}
+\usepackage[T1]{fontenc}
+\usepackage{libertinus}
+\usepackage[ngerman]{babel} 
+\usepackage[right=24pt,left=24pt, top=24pt, bottom=24pt,twoside=false]{geometry}
+\usepackage{tabularx}
+\usepackage[svgnames,RGB,table]{xcolor}
+\usepackage{microtype}
+\usepackage[german]{layout}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Prüfungsordnung - Auszug zum 8. Kyu},pdfsubject={G\={o}j\={u}-Ry\={u} Karate-D\={o}},pdfproducer={MiKTeX},pdfcreator={pdflatex}}
+\usepackage{enumitem}
+\usepackage{tabto}
+%%------------------------------------------------------------------------------
+%%Vereinbarungen & Makros
+%%------------------------------------------------------------------------------
+\clearpairofpagestyles
+%%------------------------------------------------------------------------------
+\definecolor{YBELT}{rgb}{1,1,0.2}
+%%------------------------------------------------------------------------------
+\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,colback=white,fonttitle=\bfseries}
+%%------------------------------------------------------------------------------
+%%Ende Präambel
+%%------------------------------------------------------------------------------
+\begin{document}
+%%------------------------------------------------------------------------------
+%%Karte_Gelb
+%%------------------------------------------------------------------------------
+\begin{tcolorbox}[colback=white,colframe=YBELT,coltitle=black,title=8. Kyu: Gelb]
+	\renewcommand{\labelenumi}{\alph{enumi}.)}
+	\renewcommand{\labelenumii}{\arabic*.}
+	{\scriptsize\textbf{\textit{Der 8.\,Kyu wird in aller Regel gemeinsam mit dem 9.\,Kyu absolviert, daher ist für diese Prüfung die doppelte Prüfungsgebühr, für entsprechend 2 Prüfungsmarken, zu entrichten.}}\newline Anmerkung zum \textit{(Chisai-no-)}Mawashi-Geri: in der Chisai-Form wird diese Technik als kleiner Halbkreisfußtritt ohne Drehung des Standbeins ausgeführt und ist technisch vollkommen ausreichend. Die sportliche Variante kann und darf aber auch trainiert und gezeigt werden.\newline
+	\begin{tabularx}{\textwidth}{lX}
+		\textit{Vorausgesetzte Techniken}:& Zuki, Age-Uke, Yoko-Uke, Harai-Otoshi-Uke, Soto-Uke, Mae-Geri, \textit{(Chisai-no-)}Mawashi-Geri
+	\end{tabularx}\\}
+	\begin{enumerate}[nosep]
+		\item \textit{\textbf{Kihon-Ido}}:
+		\begin{enumerate}[nosep]
+			\item Harai-Otoshi-Uke/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Mae-Geri Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item \textit{(Chisai-no-)}Mawashi-Geri Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Oi-Zuki J\={o}dan/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Soto-Uke Ch\={u}dan/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Age-Uke/Gyaku-Zuki J\={o}dan\tabto{280pt}(Sanchin-Dachi)
+			\item Yoko-Uke/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Sanchin-Dachi)
+		\end{enumerate}
+		\item \textit{\textbf{Kata}}:
+		\begin{enumerate}[nosep]
+			\item Taikyoku J\={o}dan
+			\item Taikyoku Ch\={u}dan
+		\end{enumerate}
+		\item \textit{\textbf{Partnerformen}}:
+		\begin{enumerate}[nosep]
+			\item Kihon-Ippon Kumite:\tabto{280pt}J\={o}dan\&Ch\={u}dan (ggf. Gedan)
+		\end{enumerate}
+	\end{enumerate}
+\end{tcolorbox}
+%%------------------------------------------------------------------------------
+\end{document}
+%%------------------------------------------------------------------------------
+%%EOF
+%%------------------------------------------------------------------------------

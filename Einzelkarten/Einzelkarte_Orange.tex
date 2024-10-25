@@ -1,0 +1,72 @@
+%%------------------------------------------------------------------------------
+%%Präambel
+%%------------------------------------------------------------------------------
+%%Klasse
+%%------------------------------------------------------------------------------
+\documentclass[a5paper,landscape,DIV=calc,11pt,notitlepage]{scrartcl}
+%%------------------------------------------------------------------------------
+%%Packages
+%%------------------------------------------------------------------------------
+\usepackage[headsepline=no, footsepline=no]{scrlayer-scrpage}
+\usepackage[T1]{fontenc}
+\usepackage{libertinus}
+\usepackage[ngerman]{babel} 
+\usepackage[right=24pt,left=24pt, top=24pt, bottom=24pt,twoside=false]{geometry}
+\usepackage{tabularx}
+\usepackage[svgnames,RGB,table]{xcolor}
+\usepackage{microtype}
+\usepackage[german]{layout}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Prüfungsordnung - Auszug zum 7. Kyu},pdfsubject={G\={o}j\={u}-Ry\={u} Karate-D\={o}},pdfproducer={MiKTeX},pdfcreator={pdflatex}}
+\usepackage{enumitem}
+\usepackage{tabto}
+%%------------------------------------------------------------------------------
+%%Vereinbarungen & Makros
+%%------------------------------------------------------------------------------
+\clearpairofpagestyles
+%%------------------------------------------------------------------------------
+\definecolor{OBELT}{rgb}{1,0.404,0}
+%%------------------------------------------------------------------------------
+\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,colback=white,fonttitle=\bfseries}
+%%------------------------------------------------------------------------------
+%%Ende Präambel
+%%------------------------------------------------------------------------------
+\begin{document}
+%%------------------------------------------------------------------------------
+%%Karte_Orange
+%%------------------------------------------------------------------------------
+\begin{tcolorbox}[colback=white,colframe=OBELT,coltitle=white,title=7. Kyu: Orange]
+	\renewcommand{\labelenumi}{\alph{enumi}.)}
+	\renewcommand{\labelenumii}{\arabic*.}
+	{\scriptsize
+	\begin{tabularx}{\textwidth}{lX}
+		\textit{Vorausgesetzte Techniken}:& Zuki, Age-Uke, Yoko-Uke, Harai-Otoshi-Uke, Soto-Uke, Uraken-Uchi, Empi-Age-Uchi, Mae-Geri, \mbox{\textit{(Chisai-no-)}Mawashi-Geri}
+	\end{tabularx}\\}
+	\begin{enumerate}[nosep]
+		\item \textit{\textbf{Kihon-Ido}}:
+		\begin{enumerate}[nosep]
+			\item Harai-Otoshi-Uke/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Oi-Zuki J\={o}dan/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Soto-Uke Ch\={u}dan/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item Kansetsu-Geri Gedan\tabto{280pt}(Sanchin-Dachi)
+			\item Age-Uke/Gyaku-Zuki J\={o}dan\tabto{280pt}(Sanchin-Dachi)
+			\item Yoko-Uke/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Sanchin-Dachi)
+			\item Harai-Otoshi-Uke/Gyaku-Zuki Gedan\tabto{280pt}(Shiko-Dachi 45°)
+		\end{enumerate}
+		\item \textit{\textbf{Kata}}:
+		\begin{enumerate}[nosep]
+			\item Taikyoku (welche Taikyoku geprüft wird, entscheidet der Prüfer)
+			\item Gekisai-Dai-Ichi
+		\end{enumerate}
+		\item \textit{\textbf{Partnerformen}}:
+		\begin{enumerate}[nosep]
+			\item Kihon-Ippon Kumite:\tabto{280pt}J\={o}dan\&Ch\={u}dan (ggf. Gedan)
+		\end{enumerate}
+	\end{enumerate}
+\end{tcolorbox}
+%%------------------------------------------------------------------------------
+\end{document}
+%%------------------------------------------------------------------------------
+%%EOF
+%%------------------------------------------------------------------------------
