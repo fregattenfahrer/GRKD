@@ -1,0 +1,73 @@
+%%------------------------------------------------------------------------------
+%%Präambel
+%%------------------------------------------------------------------------------
+%%Klasse
+%%------------------------------------------------------------------------------
+\documentclass[a5paper,landscape,DIV=calc,11pt,notitlepage]{scrartcl}
+%%------------------------------------------------------------------------------
+%%Packages
+%%------------------------------------------------------------------------------
+\usepackage[headsepline=no, footsepline=no]{scrlayer-scrpage}
+\usepackage[T1]{fontenc}
+\usepackage{libertinus}
+\usepackage[ngerman]{babel} 
+\usepackage[right=24pt,left=24pt, top=24pt, bottom=24pt,twoside=false]{geometry}
+\usepackage{tabularx}
+\usepackage[svgnames,RGB,table]{xcolor}
+\usepackage{microtype}
+\usepackage[german]{layout}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Prüfungsordnung - Auszug zum 2. Kyu},pdfsubject={G\={o}j\={u}-Ry\={u} Karate-D\={o}},pdfproducer={MiKTeX},pdfcreator={pdflatex}}
+\usepackage{enumitem}
+\usepackage{tabto}
+%%------------------------------------------------------------------------------
+%%Vereinbarungen & Makros
+%%------------------------------------------------------------------------------
+\clearpairofpagestyles
+%%------------------------------------------------------------------------------
+\definecolor{BRBELT}{rgb}{0.376,0.22,0.075}
+%%------------------------------------------------------------------------------
+\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,colback=white,fonttitle=\bfseries}
+%%------------------------------------------------------------------------------
+%%Ende Präambel
+%%------------------------------------------------------------------------------
+\begin{document}
+%%------------------------------------------------------------------------------
+%%Karte_Braun_2
+%%------------------------------------------------------------------------------
+\begin{tcolorbox}[colback=white,colframe=BRBELT,coltitle=white,title=2. Kyu: Braun]
+	\renewcommand{\labelenumi}{\alph{enumi}.)}
+	\renewcommand{\labelenumii}{\arabic*.}
+	{\scriptsize 
+	\begin{tabularx}{\textwidth}{lX}
+		\textit{Vorausgesetzte Techniken}:& Zuki, Age-Uke, Yoko-Uke, Harai-Otoshi-Uke, Soto-Uke, Kake-Uke, Mawashi-Uke, Teisho-Uchi, Uraken-Uchi, \mbox{Empi-Age-Uchi}, Mae-Geri, \textit{(Chisai-no-)}Mawashi-Geri
+	\end{tabularx}\\}\vspace{12pt}
+	\begin{enumerate}[nosep]
+		\item \textit{\textbf{Kihon-Ido}}:
+		\begin{enumerate}[nosep]
+			\item Harai-Otoshi-Uke/Mae-Geri Ch\={u}dan/Gyaku-Zuki Ch\={u}dan\tabto{280pt}(Zenkutsu-Dachi)
+			\item J\={o}dan Kizami-Zuki/Ch\={u}dan Gyku-Zuki\tabto{280pt}(Suri-Ashi/Zenkutsu-Dachi)
+			\item Ch\={u}dan Soto-Uke/J\={o}dan Uraken-Uchi\tabto{280pt}(Sanchin-Dachi)
+			\item Kake-Uke/Ren-Zuki J\={o}dan-Ch\={u}dan\tabto{280pt}(Sanchin-Dachi)
+			\item Harai-Otoshi-Uke/Gyaku-Zuki Gedan\tabto{280pt}(Shiko-Dachi 45°)
+			\item Shuto-Uke/Gedan Kansetsu-Geri\tabto{280pt}(Neko-Ashi-Dachi)
+		\end{enumerate}\vspace{24pt}
+		\item \textit{\textbf{Kata}}:\tabto{200pt}\textit{\textbf{Kata\,Bunkai}}:
+		\begin{enumerate}[nosep]
+			\item Tensho\tabto{200pt}Geki-Sai-Dai-Ni
+			\item Sanseru
+		\end{enumerate}\vspace{24pt}
+		\item \textit{\textbf{Partnerformen (2 aus 3)}}:
+		\begin{enumerate}[nosep]
+			\item Yakusoku-Kumite:\tabto{200pt}3 Kumite-Ura\,\&\,3 Nage-Waza (frei auszuwählen)
+			\item Shiai-Kumite:\tabto{200pt}Jiyu-Kumite: 1 Minute \frqq Freikampf\flqq~(sportlich)
+			\item Goshin-Jitsu-Kumite:\tabto{200pt}SV gegen Halten, Würgen, Stoßen
+		\end{enumerate}
+	\end{enumerate}
+\end{tcolorbox}
+%%------------------------------------------------------------------------------
+\end{document}
+%%------------------------------------------------------------------------------
+%%EOF
+%%------------------------------------------------------------------------------
