@@ -3,47 +3,46 @@
 %%------------------------------------------------------------------------------
 %%Klasse
 %%------------------------------------------------------------------------------
-\documentclass[a4paper,DIV=calc,11pt,notitlepage]{scrartcl}
+\documentclass[a5paper,landscape,DIV=calc,11pt,notitlepage]{scrartcl}
 %%------------------------------------------------------------------------------
 %%Packages
 %%------------------------------------------------------------------------------
 \usepackage[headsepline=no, footsepline=no]{scrlayer-scrpage}
 \usepackage[T1]{fontenc}
 \usepackage{libertinus}
-\usepackage{pdfpages}
-\usepackage[a5paper,noheadfoot]{geometry}
+\usepackage[ngerman]{babel} 
+\usepackage[right=24pt,left=24pt, top=24pt, bottom=24pt,twoside=false]{geometry}
+\usepackage{tabularx}
+\usepackage[svgnames,RGB,table]{xcolor}
+\usepackage{microtype}
+\usepackage[german]{layout}
+\usepackage{tcolorbox}
 \usepackage{hyperref}
 \hypersetup{colorlinks, citecolor=, linkcolor=, urlcolor=blue,pdfauthor={Sascha Christmann},pdftitle={G\={o}j\={u}-Ry\={u} Karate-D\={o} Reusrath - Prüfungsordnung - Auszug},pdfsubject={G\={o}j\={u}-Ry\={u} Karate-D\={o}},pdfproducer={MiKTeX},pdfcreator={pdflatex}}
-\usepackage[cam,a4,center,pdflatex,color=red]{crop}
+\usepackage{enumitem}
+\usepackage{tabto}
 %%------------------------------------------------------------------------------
 %%Vereinbarungen & Makros
 %%------------------------------------------------------------------------------
 \clearpairofpagestyles
 %%------------------------------------------------------------------------------
+\definecolor{YBELT}{rgb}{1,1,0.2}
+\definecolor{OBELT}{rgb}{1,0.404,0}
+\definecolor{GBELT}{rgb}{0.431,0.686,0.282}
+\definecolor{BLBELT}{rgb}{0,0.408,1}
+\definecolor{BRBELT}{rgb}{0.376,0.22,0.075}
+%%------------------------------------------------------------------------------
+\tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,colback=white,fonttitle=\bfseries,adjust text=Äpgjy}
+%%------------------------------------------------------------------------------
 %%Ende Präambel
 %%------------------------------------------------------------------------------
 \begin{document}
 	%%------------------------------------------------------------------------------
-	%%Karte_Schwarz
+	%%Karte_Gelb
 	%%------------------------------------------------------------------------------
-	\includepdf[angle=90,noautoscale,pages=1]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=2]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=3]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=4]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=5]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=6]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=7]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=8]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=9]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=10]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=11]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=12]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=13]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=14]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=15]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=16]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=17]{Karten}\pagebreak
-	\includepdf[angle=90,noautoscale,pages=18]{Karten}\pagebreak
+	\begin{tcolorbox}[colback=white,colframe=YBELT,coltitle=black,title=8. Kyu: Gelb]
+	\textbullet\circ
+	\end{tcolorbox}
 	%%------------------------------------------------------------------------------
 \end{document}
 %%------------------------------------------------------------------------------
