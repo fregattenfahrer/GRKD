@@ -26,6 +26,7 @@
 \usepackage{mathtools}
 \usepackage{booktabs}
 \usepackage{multirow}
+\usepackage{soul}
 %%------------------------------------------------------------------------------
 %%Vereinbarungen & Makros
 %%------------------------------------------------------------------------------
@@ -38,6 +39,7 @@
 \definecolor{BRBELT}{rgb}{0.376,0.22,0.075}
 \definecolor{GKD}{rgb}{0.53,0.086,0.102}
 \newcommand{\bull}{\,\textbullet\,}
+\setuldepth{a}
 %%------------------------------------------------------------------------------
 \tcbset{width=\textwidth,height=\textheight,right=12pt,left=12pt,colback=white,fonttitle=\bfseries,adjust text=Äpgjy}
 %%------------------------------------------------------------------------------
@@ -329,9 +331,9 @@
 	\renewcommand{\labelenumi}{\alph{enumi}.)}
 	\renewcommand{\labelenumii}{\arabic*.}
 	{\scriptsize 
-		\begin{tabularx}{\textwidth}{lX}
+		\begin{tabularx}{\linewidth}{lX}
 			\textit{Vorausgesetzte Techniken}:& Zuki-Waza, Uke-Waza, Geri-Waza und Dachi-Waza der bis hierhin erlernten Kihon-Ido, Kata, Kata-Bunkai und Yakusoku-Kumite
-		\end{tabularx}\\}
+		\end{tabularx}}\vspace{12pt}
 	\begin{enumerate}[nosep]
 		\item \textit{\textbf{Kihon-Ido}}:
 		\begin{enumerate}[nosep]
@@ -362,7 +364,7 @@
 		\end{enumerate}
 	\end{enumerate}
 \end{tcolorbox}
-%%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %\pagebreak
 %%------------------------------------------------------------------------------
 %%Karte_Schwarz_2
@@ -377,15 +379,15 @@
 %	\begin{enumerate}[nosep]
 %		\item \textit{\textbf{Kihon-Ido}}:
 %		\begin{enumerate}[nosep]
-%			\item Harai-Otoshi-Uke\bull Gyaku-Zuki J\={o}dan\bull Mae-Geri Ch\={u}dan\tabto{350pt}(Zenkutsu-Dachi)
-%			\item Age-Uke\bull Ren-Zuki J\={o}dan-Ch\={u}dan\tabto{350pt}(Sanchin-Dachi)
-%			\item Mawashi-Empi-Uke\bull Uraken-Uchi\bull Harai-Otoshi-Uke\bull Gyaku-Zuki Ch\={u}dan\tabto{350pt}(Shiko-Dachi 45°)
-%			\item Shut\={o}-Uke\bull Mae-Geri Ch\={u}dan\tabto{350pt}(Neko-Ashi-Dachi)
+%			\item Kombinationssequenz aus Gekisai-Dai-Ichi\tabto{350pt}(Zenkutsu-Dachi)
+%			\item Ch\={u}dan Teish\={o}-Uke\bull Uraken-Uchi J\={o}dan-Ch\={u}dan\tabto{350pt}(Sanchin-Dachi)
+%			\item Age-Uke\bull Ch\={u}dan Ura-Zuki\bull Oi-Zuki Ch\={u}dan\tabto{350pt}(Shiko-Dachi 45°)
+%			\item Kake-Uke\bull Kansetsu-Geri\tabto{350pt}(Neko-Ashi-Dachi)
 %		\end{enumerate}
 %		\vspace{12pt}
 %		\item \textit{\textbf{Kata}}:\tabto{200pt}\textit{\textbf{Kata\,Bunkai}}:
 %		\begin{enumerate}[nosep]
-%			\item Sans\={e}ru\tabto{200pt}Sans\={e}ru
+%			\item Shisoshin\tabto{200pt}Shisoshin
 %		\end{enumerate}
 %		\vspace{12pt}
 %		\item \textit{\textbf{Partnerformen (2 aus 3)}}:
@@ -395,18 +397,12 @@
 %			\item Goshin-Jitsu-Kumite\tabto{200pt}Abwehr und Konter gegen Packen, Würgen und Halten\\\textit{(Jissen-Jitsu, Selbstverteidigung)}\tabto{200pt} von vorn, von der Seite und von hinten
 %		\end{enumerate}
 %		\vspace{12pt}
-%		\item \textit{\textbf{Weitere Verbandsvorgaben}}:
-%		\begin{enumerate}[nosep]
-%			\item Vorlage eines Kampfrichterlehrgangsnachweis
-%			\item Besuch eines Dansha-Lehrgangs der Stilrichtung G\={o}j\={u}-Ry\={u} Karate-D\={o}
-%			\item Unsere Abteilung empfiehlt die Teilnahme an Lehrgängen auf Landes-, oder Bundesebene, um den Horizont des eigenen Karate beständig zu erweitern
-%			\item Weitere Details in der Prüfungsordnung
-%		\end{enumerate}
+%		Unsere Abteilung empfiehlt die Teilnahme an Lehrgängen auf Landes-, oder Bundesebene, um den Horizont des eigenen Karate beständig zu erweitern
 %	\end{enumerate}
 %\end{tcolorbox}
-%%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %\pagebreak
-%%------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %%Karte_Schwarz_3
 %%------------------------------------------------------------------------------
 %\begin{tcolorbox}[colback=white,colframe=black,coltitle=white,adjusted title=3. Dan: Schwarz]
@@ -414,7 +410,7 @@
 %	\renewcommand{\labelenumii}{\arabic*.}
 %	{\scriptsize 
 	%		\begin{tabularx}{\textwidth}{lX}
-		%			\textit{Voraussetzungen}:& Techniken, Kata\,\&\,Kata-Bunkai des Kanons bis einschliesslich 1. Dan, sowie die notwendige geistige Reife
+		%			\textit{Voraussetzungen}:& Techniken, Kata\,\&\,Kata-Bunkai des Kanons bis einschliesslich 2. Dan, sowie die notwendige geistige Reife
 		%		\end{tabularx}\\}
 %	\begin{enumerate}[nosep]
 	%		\item \textit{\textbf{Kihon-Ido}}:
@@ -456,7 +452,7 @@
 %	\renewcommand{\labelenumii}{\arabic*.}
 %	{\scriptsize 
 	%		\begin{tabularx}{\textwidth}{lX}
-		%			\textit{Voraussetzungen}:& Techniken, Kata\,\&\,Kata-Bunkai des Kanons bis einschliesslich 1. Dan, sowie die notwendige geistige Reife
+		%			\textit{Voraussetzungen}:& Techniken, Kata\,\&\,Kata-Bunkai des Kanons bis einschliesslich 3. Dan, sowie die notwendige geistige Reife
 		%		\end{tabularx}\\}
 %	\begin{enumerate}[nosep]
 	%		\item \textit{\textbf{Kihon-Ido}}:
@@ -489,23 +485,22 @@
 	%	\end{enumerate}
 %\end{tcolorbox}
 %%------------------------------------------------------------------------------
-\pagebreak
+%\pagebreak
 %%------------------------------------------------------------------------------
 %%Kyu
 %%------------------------------------------------------------------------------
-	\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Ky\={u}-System im Karate-D\={o}]
-\setlength{\tabcolsep}{3pt}
-\null\vfill\null
-\begin{center}
-	\parbox{\textwidth-2\tabcolsep}{
+\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Ky\={u}-System im Karate-D\={o}]
+	\setlength{\tabcolsep}{3pt}
+	\null\vfill\null
+	\begin{center}
+		\parbox{\textwidth-2\tabcolsep}{
 		\begin{center}
-			$\left.\begin{array}{cl} \text{10.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/whitebelt}}\\ \text{9.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/whitebelt}}\\ \text{8.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/yellowbelt}}\\ \text{7.\,Ky\={u}}& \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/orangebelt}}\end{array} \right\}\text{Unterstufe}$\quad$\left.\begin{array}{cl} \text{6.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/greenbelt}} \\ \text{5.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/bluebelt}}\\ \text{4.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/bluebelt}}\end{array} \right\}\text{Mittelstufe}$\quad$\left.\begin{array}{cl} \text{3.\,Kyu} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/brownbelt}}\\ \text{2.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/brownbelt}} \\ \text{1.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/brownbelt}}\end{array} \right\}\text{Oberstufe}$
+			$\left.\begin{array}{cl} \text{10.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/whitebelt}}\\&\\ \text{9.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/whitebelt}}\\&\\ \text{8.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/yellowbelt}}\\&\\ \text{7.\,Ky\={u}}& \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/orangebelt}}\end{array} \right\}\text{Unterstufe}$\quad$\left.\begin{array}{cl} \text{6.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/greenbelt}}\\&\\ \text{5.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/bluebelt}}\\&\\ \text{4.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/bluebelt}}\end{array} \right\}\text{Mittelstufe}$\quad$\left.\begin{array}{cl} \text{3.\,Kyu} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/brownbelt}}\\&\\ \text{2.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/brownbelt}}\\&\\ \text{1.\,Ky\={u}} & \raisebox{-7.2pt}{\includegraphics[height=24pt]{Gfx/gurte/brownbelt}}\end{array} \right\}\text{Oberstufe}$
 		\end{center}		
 		Die Ky\={u}grade werden in unserem Dojo von unseren Trainern geprüft. Das jeweilige Prüfungsprogramm, sprich die zugrunde liegenden Techniken, Partnerformen, Kata sowie Kata-Bunkai, sind auf entsprechenden Trainingskarten beschrieben. \textit{\underline{Anmerkun}}g: zum 4.\,Ky\={u} wird bei uns \textit{nicht} auf einen \textit{violetten} Gürtel gewechselt, wir \textit{bleiben} auf \textit{blau}.\\		
-		\textit{Besonderheiten:} Der Prüfungsinhalt zum 1.\,Kyu umfasst, zusätzlich zum eigentlichen Programm, ebenfalls die Inhalte der ebenfalls an diesem Tag stattfindenden Prüfungen - wenn zum Beispiel zur Prüfung zum 1.\,Kyu zwei Karateka angemeldet sind, sowie jeweils ein Karateka zum 9.,\,5.\,und 7.\,Kyu, so gehen die beiden zuerst genannten die jeweiligen Prüfungsprogramme der anderen ebenfalls mit, mit Ausnahme von Partnerformen und Kata-Bunkai. Findet an diesem Tag keine andere Prüfung statt, werden weitere Prüfinhalte im Vorfeld abgesprochen.
-	}
-\end{center}\null\vfill\null
-\setlength{\tabcolsep}{6pt}
+		\textit{Besonderheiten:} Der Prüfungsinhalt zum 1.\,Kyu umfasst, zusätzlich zum eigentlichen Programm, ebenfalls die Inhalte der ebenfalls an diesem Tag stattfindenden Prüfungen - wenn zum Beispiel zur Prüfung zum 1.\,Kyu zwei Karateka angemeldet sind, sowie jeweils ein Karateka zum 9.,\,5.\,und 7.\,Kyu, so gehen die beiden zuerst genannten die jeweiligen Prüfungsprogramme der anderen ebenfalls mit, mit Ausnahme von Partnerformen und Kata-Bunkai. Findet an diesem Tag keine andere Prüfung statt, werden weitere Prüfinhalte im Vorfeld abgesprochen.}
+	\end{center}\null\vfill\null
+	\setlength{\tabcolsep}{6pt}
 \end{tcolorbox}
 %%------------------------------------------------------------------------------
 \pagebreak
@@ -513,7 +508,6 @@
 %%Kyu_2
 %%------------------------------------------------------------------------------
 \begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Entwicklungsweg entlang der Kyu-Grade]
-	%\setlength{\tabcolsep}{9pt}
 	\null\vfill\null
 	\begin{tabularx}{\linewidth}{XXX}
 		9.-7. Ky\={u}	& 6.-4. Ky\={u}	& 3.-1. Ky\={u}\\
@@ -525,7 +519,6 @@
 		{\footnotesize \textbf{Partnerformen}}&{\footnotesize \textbf{Partnerformen \& Bunkai}}&{\footnotesize \textbf{Partnerformen, Bunkai \& SV}}\\
 		{\footnotesize Kihon-Ippon Kumite Formen sollten wechselseitig, bei steigender Graduierung mit wachsender Ernsthaftigkeit gezeigt werden. Distanzen werden korrekt eingenommen.}&{\footnotesize Kumite-Ura und Nage-Waza werden in korrektem Ablauf, optimaler Distanz und graduierungsgerechter Intensität gezeigt. Bunkai wird schulmäßig vorgeführt.}&{\footnotesize Bunkai wird bereits intensiv gezeigt und gekämpft, in schulmäßiger Form. Auf \mbox{Okuden} und \mbox{Renzoku} wird verzichtet, lediglich \mbox{Omote} Techniken werden gezeigt. Die SV wird realitätsnah, aber nicht übertrieben, gezeigt.}\\
 	\end{tabularx}\null\vfill\null
-	\setlength{\tabcolsep}{6pt}
 \end{tcolorbox}
 %%------------------------------------------------------------------------------
 \pagebreak
@@ -536,15 +529,15 @@
 	\null\vfill\null	
 	\begin{tabularx}{\textwidth}{cccc}
 		\includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_seiken}	& \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_teisho}	& \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_uraken}	& \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_seiryuto} \\
-		Seiken 	& Teish\={o} 	& Uraken 	& Seiry\={u}t\={o}\\
+		Seiken 	& Teish\={o} 	& Uraken 	& Seiry\={u}t\={o}\\&&&\\
 		\includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_tettsui} & \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_nakadaka_ippon_ken} & \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_ippon_ken} & \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_hiraken} \\
-		Tettsui 	& Nakadaka 	& Ippon Ken & Hiraken \\
+		Tettsui 	& Nakadaka 	& Ippon Ken & Hiraken \\&&&\\
 		\includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_haito} & \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_haishu}	& \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_koken} & \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_shuto} \\
-		Hait\={o} 	& Haishu 	& Koken 		& Shut\={o} \\	
+		Hait\={o} 	& Haishu 	& Koken 		& Shut\={o} \\&&&\\	
 		\includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_nukite}	& \includegraphics[height=0.12\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_hand_empi} &  & \\
 		Nukite 	& Empi 		&  			& \\
 	\end{tabularx}
-\	null\vfill\null
+	\null\vfill\null
 \end{tcolorbox}
 %%------------------------------------------------------------------------------
 \pagebreak
@@ -557,7 +550,7 @@
 		\includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_koshi} 		& \includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_sokuto} 		& \includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_teisoku} &
 		\multirow{3}{*}{\includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_haisoku}}
 		\\
-		Ch\={u}soku 		& Sokut\={o} 	& Teisoku &\\
+		Ch\={u}soku 		& Sokut\={o} 	& Teisoku &\\&&&\\&&&\\&&&\\
 		\includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_tsumasaki} 	& \includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_hiza} 		&  \includegraphics[height=0.18\textwidth-2\tabcolsep,keepaspectratio]{Gfx/habersetzer/habersetzer_waffen_fuss_kakato} &\\
 		Tsumasaki 	& Hiza 		& Kakato & Haisoku\\
 	\end{tabularx}
@@ -574,7 +567,7 @@
 		\includegraphics[width=0.25\textwidth-2\tabcolsep,keepaspectratio]{Gfx/self/musubi_dachi.pdf}	&
 		\includegraphics[width=0.25\textwidth-2\tabcolsep,keepaspectratio]{Gfx/self/heiko_dachi.pdf} &
 		\includegraphics[width=0.25\textwidth-2\tabcolsep,keepaspectratio]{Gfx/self/sanchin_dachi.pdf} & \\
-		Musubi Dachi 		& Heiko Dachi 	& Sanchin Dachi & \\
+		Musubi Dachi 		& Heik\={o} Dachi 	& Sanchin Dachi & \\
 		\includegraphics[width=0.25\textwidth-2\tabcolsep,keepaspectratio]{Gfx/self/nekoashi_dachi.pdf} & \multicolumn{2}{c}{\includegraphics[width=0.5\textwidth-1\tabcolsep,keepaspectratio]{Gfx/self/shiko_dachi.pdf}} & \multirow[t]{3}{*}{\includegraphics[width=0.25\textwidth-2\tabcolsep,keepaspectratio]{Gfx/self/zenkutsu_dachi.pdf}}\\
 		Neko-Ashi Dachi 	& \multicolumn{2}{c}{Shiko Dachi} 	& Zenkutsu Dachi  \\							
 	\end{tabularx}\\\null\vfill\null
@@ -585,33 +578,34 @@
 %%Kata_Kyu_Dan
 %%------------------------------------------------------------------------------
 \begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Kata des G\={o}j\={u}-Ry\={u} Karate-D\={o}]
-	%\setlength{\tabcolsep}{9pt}
 	\null\vfill\null
 	\begin{tabularx}{\linewidth}{XXX}
 		\textbf{Taikyoku-Kata}	& \textbf{Kata im Ky\={u}-Bereich}	& \textbf{Kata im Dan-Bereich}\\
 		\midrule
-		{\small Taikyoku J\={o}dan}		&{\small Gekisai-Dai-Ichi}	&{\small Shis\={o}chin}\\
-		{\small Taikyoku Ch\={u}dan}	&{\small Gekisai-Dai-Ni}	&{\small Seisan}\\
-		{\small Taikyoku Gedan}			&{\small Saif\={a}}			&{\small S\={e}pai}\\
-		{\small Taikyoku Kake-Uke}		&{\small S\={e}enchin}		&{\small Kururunf\={a}}\\
-		{\small Taikyoku Joshugi}		&{\small Tensh\={o}}		&{\small S\={u}p\={a}rinpei} \textit{(Petch\={u}rin)}\\
-		{\small Taikyoku Mawashi-Uke}	&{\small Sanchin}			&\\
-										&{\small Sans\={e}ru}		&\\
+		{\small Taikyoku J\={o}dan}		&{\small Gekisai-Dai-Ichi\textsuperscript{1}}	&{\small Shis\={o}chin\textsuperscript{1}}\\
+		{\small Taikyoku Ch\={u}dan}	&{\small Gekisai-Dai-Ni\textsuperscript{1}}	&{\small Seisan\textsuperscript{1}}\\
+		{\small Taikyoku Gedan}			&{\small Saif\={a}\textsuperscript{1}}			&{\small S\={e}pai\textsuperscript{1}}\\
+		{\small Taikyoku Kake-Uke}		&{\small S\={e}enchin\textsuperscript{1}}		&{\small Kururunf\={a}\textsuperscript{1}}\\
+		{\small Taikyoku Joshugi}		&{\small Tensh\={o}\textsuperscript{2}}		&{\small S\={u}p\={a}rinpei\textsuperscript{1}} \textit{(Petch\={u}rin)}\\
+		{\small Taikyoku Mawashi-Uke}	&{\small Sanchin\textsuperscript{2}}			&\\
+										&{\small Sans\={e}ru\textsuperscript{1}}		&\\
 	\end{tabularx}\\
 	{\small	
+	\begin{description}
+		\item[Taikyoku Katas] Die Taikyoku Katas haben alle das identische Enbusen gemeinsam, sie unterscheiden sich lediglich in der jeweiligen Blocktechnik sowie der Konteraktion. Sie werden auch Fukyu-Kata (">verbreitete"< oder Anfänger-Kata) genannt.
 		\begin{description}
-			\item[Taikyoku Katas] Die Taikyoku Katas haben alle das identische Enbusen gemeinsam, sie unterscheiden sich lediglich in der jeweiligen Blocktechnik sowie der Konteraktion
-			\begin{description}
-				\item[J\={o}dan] \tabto{50pt}Age-Uke\bull Oi-Zuki J\={o}dan
-				\item[Ch\={u}dan] \tabto{50pt}Yoko-Uke\bull Oi-Zuki Ch\={u}dan
-				\item[Gedan] \tabto{50pt}Harai-Otoshi-Uke\bull Oi-Zuki Gedan
-				\item[Kake-Uke]\tabto{50pt}Kake-Uke\bull Mae-Geri Ch\={u}dan\bull Hiji-Ate
-				\item[Mawashi-Uke] \tabto{50pt}Mawashi-Uke\bull Mawashi-Empi-Uke\bull Uraken-Uchi\bull Harai-Otoshi-Uke\bull Gyaku-Zuki Ch\={u}dan
-				\item[Joshugi] \tabto{50pt}Kombination aus J\={o}dan, Ch\={u}dan und Gedan
-			\end{description}
+			\item[J\={o}dan] \tabto{50pt}Age-Uke\bull Oi-Zuki J\={o}dan
+			\item[Ch\={u}dan] \tabto{50pt}Yoko-Uke\bull Oi-Zuki Ch\={u}dan
+			\item[Gedan] \tabto{50pt}Harai-Otoshi-Uke\bull Oi-Zuki Gedan
+			\item[Kake-Uke]\tabto{50pt}Kake-Uke\bull Mae-Geri Ch\={u}dan\bull Hiji-Ate
+			\item[Mawashi-Uke] \tabto{50pt}Mawashi-Uke\bull Mawashi-Empi-Uke\bull Uraken-Uchi\bull Harai-Otoshi-Uke\bull Gyaku-Zuki Ch\={u}dan
+			\item[Joshugi] \tabto{50pt}Kombination aus J\={o}dan, Ch\={u}dan und Gedan
 		\end{description}
+	\end{description}\bigskip\rule{141pt}{.4pt}\\
+	{\footnotesize
+	\textsuperscript{1} Kaishu Kata - häufig als Kata der offenen Hand übersetzt, beschreibt aber den Spannungszustand in der Bewegung ">locker"<\\
+	\textsuperscript{2} Haishu Kata - häufig als Kata der geschlossenen Hand übersetzt, beschreibt aber den Spannungszustand in der Bewegung ">angespannt"<}
 	}\null\vfill\null
-	\setlength{\tabcolsep}{6pt}
 \end{tcolorbox}
 %%------------------------------------------------------------------------------
 \pagebreak
@@ -642,8 +636,9 @@
 	\end{tabularx}\\\null\vfill\null
 	\setlength{\tabcolsep}{6pt}	
 	\begin{center}
-		\parbox{\textwidth-2\tabcolsep}{Koordinationsübungen im Kihon. Im oberen Block  können Stände und Techniken beliebig gemischt werden. Der untere Block ist zur Übung der Fußbewegungen in der Vorwärts-, bzw. Rückwärtsbewegung gedacht.}
-	\end{center}\null\vfill\null
+		\parbox{\textwidth-\tabcolsep}{Koordinationsübungen im Kihon. Im oberen Block  können Stände und Techniken beliebig gemischt werden. Der untere Block ist zur Übung der Fußbewegungen in der Vorwärts-, bzw. Rückwärtsbewegung gedacht.}
+	\end{center}
+	\null\vfill\null
 \end{tcolorbox}
 %%------------------------------------------------------------------------------
 \pagebreak
@@ -688,7 +683,7 @@
 		Zenkutsu Dachi	& \(\circledast\) & Yoko-Uke	&&Gyaku-Zuki&&Mae-Geri&\\
 		Zenkutsu Dachi	& \(\circledast\) & Soto-Uke	&&Gyaku-Zuki&&Mae-Geri&\\
 		Neko-Ashi Dachi	& \(\circledast\) & Shut\={o}-Uke	&&Nukite&&Kansetsu-Geri&\\
-		Shiko Dachi	& \(\hookleftarrow\) & Haito-Uke	&&Gyaku-Zuki&&Ashi-Barai& \(\odot\)\\
+		Shiko Dachi	& \(\hookleftarrow\) & Hait\={o}-Uke	&&Gyaku-Zuki&&Ashi-Barai& \(\odot\)\\
 		\midrule
 	\end{tabularx}\\\null\vfill\null
 \end{tcolorbox}
@@ -708,15 +703,15 @@
 			Ch\={u}dan	& Oi-Zuki	& Yoko-Uke			&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts Ch\={u}dan \\
 			Ch\={u}dan	& Oi-Zuki	& Soto-Uke			&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts Ch\={u}dan \\
 			Ch\={u}dan	& Ura-Zuki	& Soto-Uke			&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts J\={o}dan \\
-			Ch\={u}dan	& Oi-Zuki	& Shut\={o}-Uke			&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts \\
-			Ch\={u}dan	& Oi-Zuki	& Shut\={o}-Uke			&Gyaku-Zuki	& Angriff rechts, Block rechts, Konter links \\
+			Ch\={u}dan	& Oi-Zuki	& Shut\={o}-Uke		&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts \\
+			Ch\={u}dan	& Oi-Zuki	& Shut\={o}-Uke		&Gyaku-Zuki	& Angriff rechts, Block rechts, Konter links \\
 			Gedan		& Oi-Zuki	& Harai-Otoshi-Uke	&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts  \\
 			Gedan		& Mae-Geri	& Harai-Otoshi-Uke	&Gyaku-Zuki	& Angriff rechts, Block links, Konter rechts \\
 			Gedan		& Mae-Geri	& Nagashi-Uke		&Gyaku-Zuki	& Angriff rechts, Block links (rechts), Konter rechts (links)\\
 			\midrule
 		\end{tabularx}
 	}\null\vfill\null
-	\begin{minipage}[t]{\textwidth-2\tabcolsep}
+	\begin{minipage}[t]{\textwidth}
 		{\footnotesize 
 			Als grundlegende Partnerformen der Unterstufe sollten die Techniken mit, dem jeweiligen Können entsprechender, Geschwindigkeit und Definition gezeigt werden. Stete Übung bringt Schnelligkeit. Zu beachten sind die richtige Distanz zum Partner und die korrekte Reaktion auf wechselnde Abstände - Kontertechniken mit Kime setzen. Die Basisübungen sind in der Form \textit{Gerader Angriff - Gerader Konter} beschrieben, sollten aber auch in den Sh\={o}t\={o}kan Varianten mit jeweils 45°-Ausweichbewegungen geübt werden, sind aber nicht Prüfungsrelevant. Dann sind kleinere Anpassungen notwendig, bzw.\,möglich, die sich aus dem Übungsansatz ergeben. Kontertechniken können, und dürfen, entsprechend dem jeweiligen Leistungsstand variiert werden.
 		}%\onehalfspacing\singlespacing
@@ -729,30 +724,115 @@
 %%------------------------------------------------------------------------------
 \pagebreak
 %%------------------------------------------------------------------------------
+%%------------------------------------------------------------------------------
+%%Bogyo Roku Kyodo
+%%------------------------------------------------------------------------------
+\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=B\={o}gy\={o} R\={o}k\={u} Kyod\={o} aus dem Japan Karate-D\={o} Jinen-Kai]
+	\null\vfill\null
+	\begin{center}
+		\parbox{\textwidth-2\tabcolsep}{Es werden alle 6 Stände \& Techniken am Stück durchgeführt, in der Art, das immer der jeweils vordere Arm blockt (bzw. für die Fußtechniken der vordere Fuß kickt) und alle Standwechsel lediglich über den vorderen Fuß erfolgen. Als erste Übungsform wird nur der Block ausgeführt, als nächste Steigerungsform wird der Konter hinzugenommen, als letzte Steigerung dann \mbox{Block \(\Rightarrow\)\,Kick \(\Rightarrow\)\,Konter.}}
+	\end{center}
+	\begin{tabularx}{\textwidth}{lllXlXll}
+		%\multicolumn{7}{l}{\textbf{Konishi}}\\
+		Stand	&&Block	&&Konter	&&Kick&\\
+		\midrule
+		Zenkutsu Dachi 	& \(\hookrightarrow\) & Age-Uke	&&Gyaku-Zuki	&&Mae-Geri&\textbf{Konishi Form}\\
+		Shiko Dachi 	& \(\circledast\) & Harai-Otoshi-Uke	&&Kagi-Zuki&&Yoko-Geri&\\
+		Zenkutsu Dachi	& \(\circledast\) & Yoko-Uke	&&Gyaku-Zuki&&Mae-Geri&\\
+		Zenkutsu Dachi	& \(\circledast\) & Soto-Uke	&&Gyaku-Zuki&&Mae-Geri&\\
+		Neko-Ashi Dachi	& \(\circledast\) & Shut\={o}-Uke	&&Nukite&&Kansetsu-Geri&\\
+		Shiko Dachi	& \(\hookleftarrow\) & Hait\={o}-Uke	&&Gyaku-Zuki&&Ashi-Barai& \(\odot\)\\
+		\midrule
+	\end{tabularx}\\\null\vfill\null
+\end{tcolorbox}
+%%------------------------------------------------------------------------------
+\pagebreak
+%%------------------------------------------------------------------------------
+%%Kumite-Ura 1
+%%------------------------------------------------------------------------------
+\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Kurzbeschreibung Kumite-Ura 1..6]
+	\null\vfill\null	
+	{\small 	
+		\begin{tabularx}{\textwidth}{lllllX}
+			\multicolumn{3}{l}{\textbf{1. Form}}&\multicolumn{3}{l}{\textbf{2. Form}}\\
+			\midrule
+			&Tori:	& Oi-Zuki Ch\={u}dan						&&Tori:	& Oi-Zuki Ch\={u}dan\\
+			&Uke:	& Ausweichen ca. 45° Grad links				&&Uke:	& Ausweichen ca. 45° Grad links und Yoko-Uke\\
+			&		& \textbf{Konter} Chisai-no-Mawashi-Geri	&&		& \textbf{Konter} Ura-Zuki (kurze Rippe)\\
+			&Tori:	& Teish\={o}-Uke (links)						&&Tori:	& Empi-Uke (links)\\
+			&		& \textbf{Konter} Ura-Zuki J\={o}dan		&&		& \textbf{Konter} Ura-Zuki J\={o}dan\\
+			\midrule&&&&&\\
+			\multicolumn{3}{l}{\textbf{3. Form}}&\multicolumn{3}{l}{\textbf{4. Form}}\\
+			\midrule
+			&Tori:	& 2x Oi-Zuki Ch\={u}dan						&&Tori:	& Oi-Zuki Ch\={u}dan\\
+			&Uke:	& gleiten und zurückgehen mit 2xYoko-Uke	&&Uke:	& Drehung 90° Grad links und Nagashi-Uke (">\textit{Saifa}"<)\\
+			&		& \textbf{Konter} Mae-Geri oder Hiza-Geri	&&		& \textbf{Konter} Uraken-Uchi J\={o}dan\\
+			&Tori:	& Teish\={o}-Uke (links)						&&Tori:	& Arme zur Deckung hoch (ähnlich J\={u}ji-Uke)\\
+			&		& \textbf{Konter} Ura-Zuki J\={o}dan		&&		& \textbf{Konter} Kansetsu-Geri und Tettsui-Uchi\\
+			\midrule&&&&&\\
+			\multicolumn{3}{l}{\textbf{5. Form}}&\multicolumn{3}{l}{\textbf{6. Form}}\\
+			\midrule
+			&Tori:	& Oi-Zuki Ch\={u}dan						&&Tori:	& Oi-Zuki Ch\={u}dan\\
+			&Uke:	& Zurück über Neko-Ashi-Dachi mit Teish\={o}-Uke&&Uke:	& Ausweichen ca. 45° Grad links und Teish\={o}-Uchi\\
+			&		& \textbf{Konter} Suri-Ashi vorgehen mit Uraken-Uchi	
+																&&		& \textbf{Konter} Furi-Uchi-Ken J\={o}dan\\
+			&Tori:	& Age-Uke (links)							&&Tori:	& \={O}-Age-Uke\\
+			&		& \textbf{Konter} Ura-Zuki J\={o}dan		&&		& \textbf{Konter} Ura-Zuki J\={o}dan\\
+			\midrule
+		\end{tabularx}
+	}\null\vfill\null
+\end{tcolorbox}
+%%------------------------------------------------------------------------------
+\pagebreak
+%%------------------------------------------------------------------------------
+%%Kumite-Ura 2
+%%------------------------------------------------------------------------------
+\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Kurzbeschreibung Kumite-Ura 7..12]
+	\null\vfill\null	
+	{\small 	
+		\begin{tabularx}{\textwidth}{lllllX}
+			\multicolumn{3}{l}{\textbf{7. Form}}&\multicolumn{3}{l}{\textbf{8. Form ">einarmiger Bandit"<}}\\
+			\midrule
+			&Tori:	& Oi-Zuki Ch\={u}dan						&&Tori:	& Oi-Zuki Ch\={u}dan\\
+			&Uke:	& Ausweichen ca. 45° Grad mit Teish\={o}-Uke links
+																&&Uke:	& Links zurück Sanchin-Dachi Osae-Uke\\
+			&		& \textbf{Konter} Ura-Zuki J\={o}dan		&&		& \textbf{Konter} Sanchin-Dachi J\={o}dan Teish\={o}-Zukii\\
+			&Tori:	& J\={o}dan Teish\={o}-Uke (links)				&&Tori:	& Yoko-Uke (links)\\
+			&		& \textbf{Konter} Zenkutsu-Dachi Kagi-Zuki	&&		& \textbf{Konter} Ura-Zuki J\={o}dan\\
+			\midrule&&&&&\\
+			\multicolumn{3}{l}{\textbf{9. Form}}&\multicolumn{3}{l}{\textbf{10. Form}}\\
+			\midrule
+			&Tori:	& Oi-Zuki Ch\={u}dan						&&Tori:	& Oi-Zuki Ch\={u}dan\\
+			&Uke:	& rechts zurück	und Ura Teish\={o}-Uke			&&Uke:	& Yoko-Uke mit Tsukame \\
+			&		& \textbf{Konter} Mae-Geri unter linke Achsel
+																&&		& \textbf{Konter} Shiko-Dachi 90° links Shut\={o}-Uchi\\
+			&Tori:	& Otoshi-Empi-Uke							&&Tori:	& Shiko-Dachi 90° links Age-Uke rechts\\
+			&		& \textbf{Konter} Ura-Zuki/Gyaku-Zuki J\={o}dan	rechts/links
+																&&		& \textbf{Konter} Gedan Ura-Zuki links\\
+			\midrule&&&&&\\
+			\multicolumn{3}{l}{\textbf{11. Form}}&\multicolumn{3}{l}{\textbf{12. Form}}\\
+			\midrule
+			&Tori:	& Oi-Zuki Ch\={u}dan						&&Tori:	& Oi-Zuki Ch\={u}dan\\
+			&Uke:	& Zurück Yoko-Uke mit Tsukame				&&Uke:	& Ausweichen ca. 90° Grad rechts\\
+			&		& \textbf{Konter} Shiko-Dachi 90° links Ch\={u}dan Empi-Uchi
+																&&		& \textbf{Konter} Teish\={o}-Zuki J\={o}dan\\
+			&Tori:	& Shiko-Dachi 90° rechts					&&Tori:	& Teish\={o}-Uke\\
+			&		& \textbf{Konter} Empi-Uchi Ch\={u}dan		&&		& \textbf{Konter} rechts mit dem Kopf ">abkippen"<, dann Hebel oder Shut\={o}-/Hait\={o}-/Haishu-Uchi\\
+			\midrule
+		\end{tabularx}
+	}\null\vfill\null
+\end{tcolorbox}
+%%------------------------------------------------------------------------------
+\pagebreak
+%%------------------------------------------------------------------------------
 %%SV_Ideen_1
 %%------------------------------------------------------------------------------
-\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Ideen zur SV]
-	\null\vfill\null
-	\begin{description}
-			\item[Griff zum Hals von vorne] Tori greift mit einer Hand zum Hals (\textit{Revers}) des Uke (\textit{\frqq Johanna-Style}\flqq)
-			\begin{description}
-				\item[Kontergriff, Eindrehen und erster Konter] mit gleichseitiger Hand die greifende Hand erfassen und fixieren, dabei über diese Seite der Hand zum Tori eindrehen und den anderen Arm hochreißen, mit der Faust unter das Kinn des Tori
-				\item[Ausdrehen, zweiter Konter und Ende] wieder ausdrehen, dabei die Hand fixiert halten und mit dem anderen Arm/Ellenbogen zum Kopf des Gegners kontern, kraftvoll auslaufen lassen über Haishu - mit beiden Händen die Hand des Tori fassen und ggfs. Kipphebel mit Abschlusstechnik Mae-Geri
-			\end{description}
-	\end{description}
-	\begin{description}
-		\item[Schwinger von vorne] Tori greift an mit Schwinger zum Kopf des Uke
-		\begin{description}
-			\item[Sen-no-sen] mit gleichseitigem Arm im Sinne von Age-Uke in den angreifenden Arm hinein gleiten, gleichzeitg Uraken-Uchi zum Gesicht des Tori
-			\item[Zweiter Konter und Ende] Hiji-Ate zum Oberkörper (\textit{Kopf}) des Tori, dann Abschlusstechnik Mae-Geri
-		\end{description}
-	\end{description}
-	\null\vfill\null
-\end{tcolorbox}
+ 
 %\pagebreak
 %\begin{tcolorbox}[colback=white,colframe=GKD,coltitle=white,adjusted title=Kihon-Ippon-Kumite]
 %	
 %\end{tcolorbox}
+%%------------------------------------------------------------------------------
 \end{document}
 %%------------------------------------------------------------------------------
 %%EOF
