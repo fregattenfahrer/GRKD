@@ -1,6 +1,6 @@
 ### ![Goju Ryu Karate Reusrath](/Gfx/sglgrkr/Logo_SG_Langenfeld_Karate_schwarz_small.png)[^1]
 ### :punch: Prüfungsordnung als Druckvorlage :martial_arts_uniform:
-#### Zur Erstellung der Neufassung der Prüfungsordnung (PO) habe ich LaTeX verwendet - die Nutzung ist kostenfrei, allerdings auch nicht "jedermanns Sache". Als LaTeX-Distribution wurde MiKTeX[^2] verwendet, da diese relativ schlank bleibt und für alle gängigen Betriebssysteme erhältlich ist. Als Editor meiner Meinung nach TeXstudio[^3] sehr gut geeignet, da dieser ebenfalls für die gängigen Betriebssysteme zur Verfügung steht und kostenlos ist. Zur Erstellung der BibTeX Dateien wurde JabRef[^4] verwendet, ebenfalls kostenlos und für die gängigen Betriebssysteme erhältlich.
+#### Zur Erstellung der Neufassung der Prüfungsordnung (PO) habe ich LaTeX verwendet - die Nutzung ist kostenfrei, allerdings auch nicht "jedermanns Sache". Als LaTeX-Distribution wurde MiKTeX[^2] verwendet, da diese relativ schlank bleibt und für alle gängigen Betriebssysteme erhältlich ist. Als Editor ist meiner Meinung nach TeXstudio[^3] sehr gut geeignet, da dieser ebenfalls für die gängigen Betriebssysteme zur Verfügung steht und kostenlos ist. Zur Erstellung der BibTeX Dateien wurde JabRef[^4] verwendet, ebenfalls kostenlos und für die gängigen Betriebssysteme erhältlich.
 #### Aufbau
 - Ordner
   - [ ] [`/Gfx`](Gfx/) enthält Quellgrafiken 
@@ -10,6 +10,7 @@
   - [ ] `grkdr_quellen.bib` ist die Quelldatei für den Quellennachweis
   - [ ] `Neufassung_PO.pdf` ist die jeweils zuletzt erstellte PDF anhand der Quelldateien
   - [ ] `README.md` diese Datei
+  - [ ] Aktuell befinden sich weitere Unterordner und Dateien mit im Baum des Repo, diese werden in abgeleiteten und begleitenden Dokumenten genutzt, eine dedizierte Auflistung erfolgt zeitnah, ebenso wie der notwendige Quellennachweis - ebenso arbeite ich an einer "Gesamtreferenz" für "unser Training", eine Vorschau wird hier auch zeitnah dazukommen, aber auch da muss ich zunächst die Quellennachweise erstellen
 
 #### Print / Ausgabe
 Die Ausgabe ist für den Ausdruck auf DIN A4 **zweiseitig** im **Hochformat** mit **Bundsteg** optimiert.

@@ -10,3 +10,5 @@ build_zum_Vergleich/
 *.sav
 *.xml
 *.gz
+babel-debug.tex
+soul.tex
