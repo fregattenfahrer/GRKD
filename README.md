@@ -10,7 +10,7 @@
   - [ ] `grkdr_quellen.bib` ist die Quelldatei für den Quellennachweis
   - [ ] `Neufassung_PO.pdf` ist die jeweils zuletzt erstellte PDF anhand der Quelldateien
   - [ ] `README.md` diese Datei
-  - [ ] Aktuell befinden sich weitere Unterordner und Dateien mit im Baum des Repo, diese werden in abgeleiteten und begleitenden Dokumenten genutzt, eine dedizierte Auflistung erfolgt zeitnah, ebenso wie der notwendige Quellennachweis 
+  - [ ] Aktuell befinden sich weitere Unterordner und Dateien mit im Baum des Repo, diese werden in abgeleiteten und begleitenden Dokumenten genutzt, eine dedizierte Auflistung erfolgt zeitnah, ebenso wie der notwendige Quellennachweis - ebenso arbeite ich an einer "Gesamtreferenz" für "unser Training", eine Vorschau wird hier auch zeitnah dazukommen, aber auch da muss ich zunächst die Quellennachweise erstellen
 
 #### Print / Ausgabe
 Die Ausgabe ist für den Ausdruck auf DIN A4 **zweiseitig** im **Hochformat** mit **Bundsteg** optimiert.
